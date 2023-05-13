@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Diversity
-description: Gender and ethnic diversity on the professions
+description: Gender and ethnic diversity in the professions
 img: assets/img/3.jpg
 importance: 2
 category: work
