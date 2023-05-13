@@ -1,8 +1,8 @@
 ---
 layout: page
 title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+description: Quantitative finance
+img: assets/img/image-jetty.jpg
 importance: 1
 category: work
 ---
