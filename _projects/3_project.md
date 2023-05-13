@@ -3,7 +3,7 @@ layout: page
 title: Green Finance
 description: Applied economics and finance
 img: assets/img/cropped-cropped-frog11-1.jpg
-redirect: [https://unsplash.com](https://www.mdx.ac.uk/our-research/centres/greenfin-research-hub)
+redirect: https://www.mdx.ac.uk/our-research/centres/greenfin-research-hub
 importance: 3
 category: work
 ---
