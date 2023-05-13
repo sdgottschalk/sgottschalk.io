@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Green Finance
+description: Applied economics and finance
+img: assets/img/cropped-cropped-frog11-1.jpg
+redirect: [https://unsplash.com](https://www.mdx.ac.uk/our-research/centres/greenfin-research-hub)
 importance: 3
 category: work
 ---
