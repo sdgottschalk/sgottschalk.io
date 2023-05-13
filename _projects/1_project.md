@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quant. Finance
-description: Asset pricing
+description: Asset pricing, FinTech, financial econometrics
 img: assets/img/images-getty.jpg
 importance: 1
 category: work
