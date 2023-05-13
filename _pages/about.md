@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Middlesex University</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Middlesex University</a>. 
 
 profile:
   align: right
@@ -16,11 +16,17 @@ profile:
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I joined Middlesex University Business School after working several years as a researcher and forecaster at the National Institute of Economic and Social Research (NIESR). I have worked on a wide range of topics in applied economics, such as exchange rate volatility, the impacts of the Basel Capital Accord in emerging markets, the development of macroeconomic measures of credit risk, the macroeconomic determinants of FDI. More recently, my work has focused on financial economics, fixed-income, asset pricing, and green finance, with a particular focus on computational finance and big data analysis. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have a PhD in economics from Sussex University and BSc in economics and in physics. I am a member of several learned societies, such as the Institute of Mathematics and Applications (IMA), the London Mathematical Society (LMS) and the Institute of Physics (IoP), and their European associates,  where I participate in initiatives linking mathematics and physics to economics and finance.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Applications for PhD in the areas of asset pricing, credit risk modelling, computational finance, green finance, and financial economics as broad areas, are welcome.
+
+I am an associate editor of the journals [Beta-Scandinavian  Journal of Business Research] (https://www.idunn.no/beta?languageId=2#/about) , and [SN Business and Economics] (https://www.springer.com/journal/43546) 
+
+I am the co-director of the Green Finance Research Cluster, along with Dr. Robyn Owen (director). Our research can be found on [GreenFin Research](https://www.mdx.ac.uk/our-research/centres/greenfin-research-hub)
+
+
