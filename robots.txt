@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sdgottschalk.github.io/sgottschalk.io//al-folio/sitemap.xml
+Sitemap: https://sdgottschalk.github.io//sgottschalk.io//sitemap.xml
