@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Middlesex University</a>. 
+subtitle: <a href='www.mdx.ac.uk'>Middlesex University</a>. 
 
 profile:
   align: right
@@ -25,7 +25,7 @@ I have a PhD in economics from Sussex University and BSc in economics and in phy
 
 Applications for PhD in the areas of asset pricing, credit risk modelling, computational finance, green finance, and financial economics as broad areas, are welcome.
 
-I am an associate editor of the journals [Beta-Scandinavian  Journal of Business Research] (https://www.idunn.no/beta?languageId=2#/about) , and [SN Business and Economics] (https://www.springer.com/journal/43546) 
+I am an associate editor of the journals [Beta-Scandinavian  Journal of Business Research](https://www.idunn.no/beta?languageId=2#/about) , and [SN Business and Economics](https://www.springer.com/journal/43546) 
 
 I am the co-director of the Green Finance Research Cluster, along with Dr. Robyn Owen (director). Our research can be found on [GreenFin Research](https://www.mdx.ac.uk/our-research/centres/greenfin-research-hub)
 
