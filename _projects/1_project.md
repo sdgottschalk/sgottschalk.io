@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
+title: Quant. Finance
 description: Quantitative finance
-img: assets/img/image-getty.jpg
+img: assets/img/images-getty.jpg
 importance: 1
 category: work
 ---
