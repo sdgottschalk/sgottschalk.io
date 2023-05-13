@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quant. Finance
-description: Quantitative finance
+description: Asset pricing
 img: assets/img/images-getty.jpg
 importance: 1
 category: work
