@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Crypto and Digital Assets Summit - 8-9 May 2024](https://crypto2024.live.ft.com/)
+title: Crypto and Digital Assets Summit - 8-9 May 2024 (https://crypto2024.live.ft.com/)
 date: 2023-05-13 16:11:00-0400
 inline: false
 related_posts: false
