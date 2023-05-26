@@ -30,7 +30,7 @@ This module is a 2-semester elective course on the [BSc Banking and Finance](htt
 
 ## Applied Econometrics
 
-This module is a 1-semester Masters course on the [MSc Banking and Finance](https://www.mdx.ac.uk/courses/undergraduate/banking-and-finance](https://www.mdx.ac.uk/courses/postgraduate/banking-and-finance) and [MSc Investment and Finance](https://www.mdx.ac.uk/courses/postgraduate/investment-and-finance) at [Middlesex University](www.mdx.ac.uk). It covers the basics of econometrics: cross-section analysis, time-series, and panel data analysis.
+This module is a 1-semester Masters course on the [MSc Banking and Finance](https://www.mdx.ac.uk/courses/postgraduate/banking-and-finance) and [MSc Investment and Finance](https://www.mdx.ac.uk/courses/postgraduate/investment-and-finance) at [Middlesex University](www.mdx.ac.uk). It covers the basics of econometrics: cross-section analysis, time-series, and panel data analysis.
 
 #### References
 <ul>
