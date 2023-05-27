@@ -14,7 +14,8 @@ Is DeFi the future of crypto exchanges?
 ## DeFi PERFORMANCE IN 2022-2023
 
 DeFi has performed better than bitcoin in the past 12 months. The trading volume in DEX fell from [$133.54bn in May 2022 to $57.16bn in May 2023](https://www.theblock.co/data/decentralized-finance/dex-non-custodial), a 5.7% decline.  The trading volume of bitcoin fell from [$18.09bn to $8.65](https://coinmarketcap.com/historical/), a 52% fall. This has led some in the crypto community to believe that DeFi is the future of the crypto ecosystem, after the demise of FTX.
-### DeFi claim to have better governance than traditional crypto exchanges
+
+### DeFi claims to have better governance than traditional crypto exchanges
 Most crypto platforms play multiple roles that are required by regulation to be independent in traditional finance (TradFi), broker, exchange, market maker and custodian. The failure of FTX also exposed loose governance systems, allegedly allowing FTX to use customer assets to make [illiquid investments in its affiliated companies]( https://www.ft.com/content/cc3c3402-785d-4441-9edf-743bb0596ea6).
 DeFi differs from crypto exchanges in that customers maintain custody of their own crypto assets and transact using protocols without centralised intermediaries. 
 
