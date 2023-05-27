@@ -10,7 +10,7 @@ toc:
   beginning: true
 ---
 
-## EUROPEAN UNION APPROVES LEGISLATIVE DOCUMENT REGULATING THE MARKET IN CRYPTO-ASSETS (MiCA)
+## EUROPEAN UNION REGULATES MARKET IN CRYPTO-ASSETS (MiCA)
 
 In April 2023 the European Parliament [approved regulation]( https://www.europarl.europa.eu/news/en/press-room/20230414IPR80133/crypto-assets-green-light-to-new-rules-for-tracing-transfers-in-the-eu) requiring exchanges and wallet providers to obtain a license and stablecoin issuers to hold appropriate reserves. However, the implementation details were not defined and were delegated to the European Supervisory Authority (ESMA), which is the European supervisory authority. ESMA will have to draft and consult on the “substantial package of implementing measures” that lie underneath the published regulation. This suggests that it is unlikely that a EU-wide regulatory framework will be operational in the next 3 years. The MiCA regulation approved in April 2023 will take effect only in mid-2024. Until ESMA provides EU-wide directives and technical regulatory standards (or “level-two legislation”), the supervision and regulation of crypto-assets will be carried out by member states.
 
@@ -28,7 +28,7 @@ The Act [excludes many crypto-assets]( https://data.consilium.europa.eu/doc/docu
 Electronic money and funds received in exchange for electronic money should not be treated as deposits, e-money tokens cannot be treated as deposits that are excluded as well.
 
 
-### CONCERNS WITH CLIMATE CHANGE AND ENVIRONMENTAL IMPACTS
+### Concerns with climate change and environmental impacts
 
 The first EU-wide regulation of crypto-assets is concerned with the environmental sustainability of the consensus mechanisms used for the validation of transactions in crypto-assets. 
 
@@ -37,7 +37,7 @@ The text urges crypto-businesses to create consensus mechanisms that are more en
 This is an interesting approach by the EU, since the measurement of environmental impacts of financial activities does not usually fall within the scope of financial regulators. 
 
 
-## CRYPTO AND FINANCIAL STABILITY
+### Crypto and financial stability
 
 The EU recognises that crypto markets do not pose a threat to financial stability. The main reason put forward is their relatively small capitalisation relative to the global financial system. It is, however, possible that types of crypto-assets that
 aim to stabilise their price in relation to a specific asset or a basket of assets could in the
@@ -48,12 +48,12 @@ monetary policy transmission or monetary sovereignty.
 ## POSITIVE APPROACH TO CRYPTO-ASSETS
 
 the EU appears to see some [societal and economic value](https://data.consilium.europa.eu/doc/document/PE-54-2022-INIT/en/pdf).
-to crypto-assets: “offers of crypto-assets could allow for an innovative and inclusive way of financing, including for small and medium-sized enterprises (SMEs) (page 2)
+to crypto-assets: “offers of crypto-assets could allow for an innovative and inclusive way of financing, including for small and medium-sized enterprises (SMEs) (p.2)
 
-### SHARP CONTRAST WITH THE ECB 
+### Sharp contrast with the ECB 
 
-The [ECB’s position on bitcoin and other crypto-assets](https://www.ecb.europa.eu/press/blog/date/2022/html/ecb.blog221130~5301eecd19.en.html) was published in November 2022 in the wake of FTX’s failure. Ulrich Bindseil and Jürgen Schaaf start with a scathing analysis of bitcoin’s economic irrelevance, except for illegal transactions.  They then justify the ECB’s reluctance to regulate bitcoin by explaining that regulation would be viewed as a signal of acceptance of cryptocurrencies, in general, and of bitcoin in particular, a position they completely disagree with. Although they acknowledge the EU’s MiCA initiative they disapprove of it “[..] current regulation of cryptocurrencies is partly shaped by misconceptions. The belief that space must be given to innovation at all costs stubbornly persists.” In summary, crypto-assets are useless, bitcoin is an “unprecedented polluter”, and should be left to disappear. 
+The [ECB’s position on bitcoin and other crypto-assets](https://www.ecb.europa.eu/press/blog/date/2022/html/ecb.blog221130~5301eecd19.en.html) was published in November 2022 in the wake of FTX’s failure. Ulrich Bindseil and Jürgen Schaaf start with a scathing analysis of bitcoin’s economic irrelevance, except for illegal transactions.  They then justify the ECB’s reluctance to regulate bitcoin by explaining that regulation would be viewed as a signal of acceptance of cryptocurrencies in general -and of bitcoin in particular-, a position they completely disagree with. Although they acknowledge the EU’s MiCA initiative, they disapprove of it: “[..] current regulation of cryptocurrencies is partly shaped by misconceptions. The belief that space must be given to innovation at all costs stubbornly persists.” In summary, crypto-assets are useless, bitcoin is an “unprecedented polluter”, and should be left to disappear. 
 
-## THIS IS JUST THE START
+### This is just the start
 
-International financial regulation is always passive and merely reacts to disruptive events, rather than create preventive frameworks to avoid such events. Basel I came in the wake of the failure of Ambrosiano Spa, Basel II followed the 1994 Mexican Crisis, which highlighted the flaws of risk weights based on the membership of the OECD, and the 1997 Asian Crisis, which highlighted the flaws of low risk weights for short-term intra-bank loans. Basel III introduced liquidity risk weights following the 2008 Financial Crisis. Although it was kick-started in 2019 this new EU legislation comes after the fraudulent failure of FTX and the bakruptcy of of Terra. 
+International financial regulation is always passive and merely reacts to disruptive events, rather than create preventive frameworks to avoid such events. Basel I came in the wake of the failure of Ambrosiano Spa. Basel II followed the 1994 Mexican Crisis, which highlighted the flaws of risk weights based on the membership of the OECD, and the 1997 Asian Crisis, which highlighted the flaws of low risk weights for short-term intra-bank loans. Basel III introduced liquidity risk weights following the 2008 Financial Crisis. Although it was kick-started in 2019, this new EU legislation comes after the fraudulent failure of FTX and the bankruptcy of Terra. 
