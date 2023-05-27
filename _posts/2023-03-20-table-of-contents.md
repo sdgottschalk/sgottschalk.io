@@ -18,18 +18,18 @@ In April 2023 the European Parliament [approved regulation]( https://www.europar
 The Act [excludes many crypto-assets]( https://data.consilium.europa.eu/doc/document/PE-54-2022-INIT/en/pdf) (pp 8-9) , e.g., those that qualify as:
 <ol>
   <li>financial instruments</li>
-  <li>deposits, including structured deposits, funds, except if they qualify as electronic money tokens (‘e-money tokens’),</li>
+  <li>deposits, including structured deposits, funds, except if they qualify as electronic money tokens (‘e-money tokens’)</li>
   <li>securitisation positions </li>
-  <li>non-life or life insurance contracts, pensions products or schemes and social security schemes<li>
-  <li>NFTs and other tokens, "crypto-assets that are unique and not fungible with
-other crypto-assets, including digital art and collectibles"<li>:
- <li>Digital assets issued by central banks acting in their monetary authority capacity<li>
+  <li>non-life or life insurance contracts, pensions products or schemes and social security schemes</li>
+  <li>NFTs and other tokens, "crypto-assets that are unique and not fungible with other crypto-assets, including digital art and collectibles"</li>
+ <li>Digital assets issued by central banks acting in their monetary authority capacity</li>
 </ol> 
 
 Electronic money and funds received in exchange for electronic money should not be treated as deposits, e-money tokens cannot be treated as deposits that are excluded as well.
 
 
 ### CONCERNS WITH CLIMATE CHANGE AND ENVIRONMENTAL IMPACTS
+
 The first EU-wide regulation of crypto-assets is concerned with the environmental sustainability of the consensus mechanisms used for the validation of transactions in crypto-assets. 
 
 The text urges crypto-businesses to create consensus mechanisms that are more environmentally-friendly. Responsible governance is also advised: “[..] any principal adverse impact that they might have on the climate and any other environment-related adverse impact are adequately identified and disclosed by issuers of crypto-assets and crypto-asset service providers” (p.6). The concern for the environmental impact is such that the European Supervisory Authority (European Securities and Markets Authority) (ESMA) will be mandated to develop draft regulatory technical standards in relation to sustainability indicators, identify adverse impacts on climate and outline key energy indicators. 
@@ -47,12 +47,12 @@ monetary policy transmission or monetary sovereignty.
 
 ## POSITIVE APPROACH TO CRYPTO-ASSETS
 
-the EU appears to see some [societal and economic value] ( https://data.consilium.europa.eu/doc/document/PE-54-2022-INIT/en/pdf).
+the EU appears to see some [societal and economic value](https://data.consilium.europa.eu/doc/document/PE-54-2022-INIT/en/pdf).
 to crypto-assets: “offers of crypto-assets could allow for an innovative and inclusive way of financing, including for small and medium-sized enterprises (SMEs) (page 2)
 
-### SHARP CONTRAST WITH THE [ECB’s position on bitcoin and other crypto-assets] (https://www.ecb.europa.eu/press/blog/date/2022/html/ecb.blog221130~5301eecd19.en.html )
+### SHARP CONTRAST WITH THE ECB 
 
-published in November 2022 in the wake of FTX’s failure, Ulrich Bindseil and Jürgen Schaaf start with a scathing analysis of bitcoin’s economic irrelevance, except for illegal transactions.  They then justify the ECB’s reluctance to regulate bitcoin by explaining that regulation would be viewed as a signal of acceptance of cryptocurrencies, in general, and of bitcoin in particular, a position they completely disagree with. Although they acknowledge the EU’s MiCA initiative they disapprove of it “[..] current regulation of cryptocurrencies is partly shaped by misconceptions. The belief that space must be given to innovation at all costs stubbornly persists.” In summary, crypto-assets are useless, bitcoin is an “unprecedented polluter”, and should be left to disappear. 
+The [ECB’s position on bitcoin and other crypto-assets](https://www.ecb.europa.eu/press/blog/date/2022/html/ecb.blog221130~5301eecd19.en.html) was published in November 2022 in the wake of FTX’s failure. Ulrich Bindseil and Jürgen Schaaf start with a scathing analysis of bitcoin’s economic irrelevance, except for illegal transactions.  They then justify the ECB’s reluctance to regulate bitcoin by explaining that regulation would be viewed as a signal of acceptance of cryptocurrencies, in general, and of bitcoin in particular, a position they completely disagree with. Although they acknowledge the EU’s MiCA initiative they disapprove of it “[..] current regulation of cryptocurrencies is partly shaped by misconceptions. The belief that space must be given to innovation at all costs stubbornly persists.” In summary, crypto-assets are useless, bitcoin is an “unprecedented polluter”, and should be left to disappear. 
 
 ## THIS IS JUST THE START
 
