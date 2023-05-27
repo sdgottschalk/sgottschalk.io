@@ -31,7 +31,7 @@ However, unlike pure crypto exchanges, DeFi platforms appears to provide service
 <li>pool resources in support of large projects from decentralised sources</li> 
 <li> provide price information for various assets </li>
 <li> provide liquidity and liquidity pools on their platforms</li>
-<\ol>
+</ol>
 The main difference with TradFi is that DeFi is based on systems in which computer code and decentralised validators verify the legitimacy of transactions and the availability of funds to execute them. 
 
 
