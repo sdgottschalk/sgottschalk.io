@@ -2,7 +2,7 @@
 layout: page
 title: ACQF
 description: Applied computational and quantitative and finance
-img: assets/img/cropped-cropped-frog11-1.jpg
+img: assets/img/quantum_green.jpg
 redirect: https://sdgottschalk-acqf.netlify.app
 importance: 3
 category: fun
