@@ -26,5 +26,5 @@ Taras Shevchenko National University of Kyiv
 pricing temperature index insurance</a> Universiti Malaysia Terengganu </li>
 </ul>
 
-Really existing programme! Sadly, due to the Covid-19 pandemic, few could travel to <a href="https://www.portoroz.si/en/"> Portorož</a>. 
+Really exciting programme! Sadly, due to the Covid-19 pandemic, few could travel to <a href="https://www.portoroz.si/en/"> Portorož</a>. 
 Hopefully, for the <a href="https://www.ecm2024sevilla.com/">9th European Congress in 2024 </a>, we will all meet in Seville.
