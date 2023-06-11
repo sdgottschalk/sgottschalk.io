@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quantum finance
-description: Asset pricing, protfolio management, games
+description: Asset pricing, portfolio management, games
 img: assets/img/quantum.jpg
 importance: 3
 category: fun
