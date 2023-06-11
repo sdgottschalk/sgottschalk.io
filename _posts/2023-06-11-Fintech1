@@ -1,0 +1,37 @@
+---
+layout: post
+title:  a post with formatting and links
+date:   2015-03-15 16:40:16
+description: march & april, looking forward to summer
+tags: formatting links
+categories: sample-posts
+---
+
+<p>The development of financial technology has led to an increase in the closure of bank branches in many countries. 
+In the UK, the total number of bank and building society branches fell by 34% between 2012 and 2021 
+(See Booth 2022, Browning 2022, Edmonds 2018) and Small Business Finance Markets Report 2023 by the British Business Bank BBB 2023.</p>
+
+<p>Gopal & Schnabl (2022) investigate the credit supply to small businesses in the aftermath of the 2008 financial crisis in the US. 
+The data cover 3,717 banks and 3,841 nonbanks, mostly finance companies and FinTech lenders, 
+which tended to lend to smaller firms. They show that nonbank lenders almost perfectly offset the 
+decline in bank lending during the financial crisis. Gopal & Schnabl (2022)'s results suggest that 
+P2P and banking lending to SMEs might be complements, rather than substitutes. Tang (2019), however, 
+found that P2P to consumers tend to be complement to bank credit.</p>
+
+<p>Banking credit to SMEs also declined in the UK in the aftermath of the 2008 financial crisis, 
+but took seven years to recover to pre-2008 levels, and data from the Bank of England clearly
+show that peer-to-peer (P2P) lending started growing exactly in the same year bank lending reached the 2008 level . 
+This suggests that P2P and bank lending to SMEs might be complements, rather than substitutes as found by Gopal & Schnabl (2022). 
+To the extent of our knowledge there is no such empirical research in the UK.</p>
+
+#### References
+
+Booth, L. (2022), Statistics on access to cash, bank branches and atms, Commons Library Research Briefing CBP08570, House of Commons Library. URL: https://researchbriefings.files.parliament.uk/documents/CBP-8570/CBP-8570.pdf
+
+Browning, S. (2022), The future of local banking services and access to cash, Commons Library Research Briefing 9453, House of Commons Library. URL: https://researchbriefings.files.parliament.uk/documents/CBP-9453/CBP-9453.pdf
+
+Edmonds, P. (2018), Bank branch closures, Commons Library Briefing Paper 385, House of Commons Library. URL: https://commonslibrary.parliament.uk/research-briefings/sn00385/
+
+Gopal, M. & Schnabl, P. (2022), ‘The rise of finance companies and fintech lenders in small business lending’, The Review of Financial Studies 35(11), 4859–4901.
+
+Tang, H. (2019), ‘Peer-to-peer lenders versus banks: Substitutes or complements?’, The Review of Financial Studies 32(5), pp. 1900–1938. URL: https://www.jstor.org/stable/48568943
