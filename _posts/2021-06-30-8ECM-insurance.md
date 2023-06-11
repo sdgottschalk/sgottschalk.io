@@ -4,7 +4,7 @@ title:  8 European Congress of Mathematics
 date:   2021-06-30 17:50:25
 description: 8ECM Finance and Insurance
 ---
- <img src="assets/img/8ECM_logo.png">
+ <img src="8ECM_logo.png">
 
  
  The <a href="https://www.8ecm.si"> 8th European Congress of Mathematics</a> organised by the Slovenia University of Primorska 
