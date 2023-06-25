@@ -6,7 +6,7 @@ description: Applications of agent-based model to create personal data
 tags: FinTech 
 categories: post
 ---
-The 2nd <a href="https://www.eftconference.business-school.ed.ac.uk/">Conference on the Economics of Financial Technology</a> gathered more than 100 academics researching on FinTech and AI application to finance. There were a couple of industry applications presented. One of them, Smart Data Foundry, builds on the agent-based models to create synthetic data. The presentation showed how synthetic data can be used by banks to simulate the behaviour of clients without using actual personal data, which can be problematic due to confidentiality requirements or disclosure risks. 
+The 2nd <a href="https://www.eftconference.business-school.ed.ac.uk/">Conference on the Economics of Financial Technology</a> gathered more than 100 academics researching on FinTech and AI applications to finance. There were also a couple of industry applications presented. One of them, Smart Data Foundry, builds on the agent-based models to create synthetic data. The presentation showed how synthetic data can be used by banks to simulate the behaviour of clients without using actual personal data, which can be problematic due to confidentiality requirements or disclosure risks. 
 
 #### What are synthetic data?
 
@@ -31,7 +31,7 @@ Two main approaches were presented:
 
 #### Why synthetic data?
 
-The concept of synthetic data is puzzling for academics, who aim to produce research that lead to accurate predictions, even though economic models are abstract and rely on simplifying assumptions (e.g. representative consumer). Using real data is thus fundamental for research economists. Some colleagues were disturbed by the very concept of synthetic data, which they interpreted as "fake" data. I had a conversation with the Smart Data Foundry's Principal Data Scientist Paola Arce, and asked why not use anonymised real data instead of synthetic data. Paola explained that anonymised data may be made available to academics but never to businesses. Even regulators such as the Financial Conduct Authority would have difficulty accessing personal data from firms outside their remit (e.g. data from the Payment Systems Regulator). Synthetic data fill this gap and allow businesses and regulators to analyse consumer behaviour. 
+The concept of synthetic data is puzzling for academics, who aim to produce research that leads to accurate predictions, even though economic models are abstract and rely on simplifying assumptions (e.g. representative consumer). Using real data is thus fundamental for research economists. Some colleagues were disturbed by the very concept of synthetic data, which they interpreted as "fake" data. I had a conversation with the Smart Data Foundry's Principal Data Scientist Paola Arce, and asked why not use anonymised real data instead of synthetic data. Paola explained that anonymised data may be made available to academics but never to businesses. Even regulators such as the Financial Conduct Authority would have difficulty accessing personal data from firms outside their remit (e.g. data from the Payment Systems Regulator). Synthetic data fill this gap and allow businesses and regulators to analyse consumer behaviour. 
 
 <hr>
 
