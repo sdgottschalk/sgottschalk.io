@@ -39,7 +39,7 @@ table.table a {
   color: var(--global-theme-color);
 
   &:hover {
-    color: #1a521c;
+    color: var(--global-theme-color);
     text-decoration: underline;
   }
 
