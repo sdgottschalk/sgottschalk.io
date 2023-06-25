@@ -1,30 +1,43 @@
 ---
 layout: post
-title:  a post with formatting and links
-date:   2015-03-15 16:40:16
-description: march & april, looking forward to summer
-tags: formatting links
-categories: sample-posts
+title:  Synthetic data in finance
+date:   2023-06-24 16:40:16
+description: Applications of agent-based model to create personal data
+tags: FinTech 
+categories: post
 ---
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+The 2nd <a href="https://www.eftconference.business-school.ed.ac.uk/">Conference on the Economics of Financial Technology</a> gathered more than 100 academics researching on FinTech and AI application to finance. There were a couple of industry applications presented. One of them, Smart Data Foundry, builds on the agent-based models to create synthetic data. The presentation showed how synthetic data can be used by banks to simulate the behaviour of clients without using actual personal data, which can be problematic due to confidentiality requirements or disclosure risks. 
 
-#### Hipster list
+#### What are synthetic data?
+
+Synthetic data are computationally generated to replicate the same characteristics of real data: people, firms, events, interatcions between firms and people. The main difference is that part of these characteristics, or all of them, are artificial. Synthetic data are useful to
+
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>enable applications that would not be possible with real data</li>
+    <li>increase existing datasets to allow the analysis of new scenarios, which cannot be simulated with existing data</li>
+    <li>run simulations without putting at risk the data of real peoples</li>
+    <li>simulate events for which there are no data, e.g., impact of Brexit before Brexit</li>
 </ul>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+#### How are synthetic data generated?
+
+Two main approaches were presented: 
+
+<ul>
+    <li>Agent-based modelling (ABM): was developed in economics in the 1990s as agent-based computational economics (ACE). An "agent" is any entity capable of affecting the trajectory of outcomes for a system, such as decision-making entities (e.g., "humans") or physical phenomena with no cognitive function (e.g., "weather"). One of the main characteristics of ABM is the large number of heterogeneous agents. This strongly contrasts with mainstream economics models which are based on the representative consumer, the representative firm, or the representative central planner.</li>
+    <li>Learning-based synthesis: is based on machine learning and machine training on real data. A model is created and trained on real data to learn the patterns in the dataset. The learned patterns are then used to generate synthetic data with the same characteristics and patterns of the real data.</li>
+    
+</ul>
+
+#### Why synthetic data?
+
+The concept of synthetic data is puzzling for academics, who aim to produce research that lead to accurate predictions, even though economic models are abstract and rely on simplifying assumptions (e.g. representative consumer). Using real data is thus fundamental for research economists. Some colleagues were disturbed by the very concept of synthetic data, which they interpreted as "fake" data. I had a conversation with the Smart Data Foundry's Principal Data Scientist Paola Arce, and asked why not use anonymised real data instead of synthetic data. Paola explained that anonymised data may be made available to academics but never to businesses. Even regulators such as the Financial Conduct Authority would have difficulty accessing personal data from firms outside their remit (e.g. data from the Payment Systems Regulator). Synthetic data fill this gap and allow businesses and regulators to analyse consumer behaviour. 
 
 <hr>
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+The presentation was very enlightening and it is good to see real life applications of agent-based models. Hopefully, these models will become more mainstream in economics and finance syllabi. 
 
-<blockquote>
-    We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-    —Anais Nin
-</blockquote>
+#### References
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Smart Foundry White Paper: <a href="https://smartdatafoundry.com/news/white-paper-comparing-synthetic-data-approaches-simulation-learning-based-synthesis">https://smartdatafoundry.com/news/white-paper-comparing-synthetic-data-approaches-simulation-learning-based-synthesis</a>
+
