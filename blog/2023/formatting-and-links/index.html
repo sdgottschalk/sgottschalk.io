@@ -10,10 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>links | Sylvia  Gottschalk</title>
+    <title>Synthetic data in finance | Sylvia  Gottschalk</title>
     <meta name="author" content="Sylvia  Gottschalk">
-    <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-">
+    <meta name="description" content="Applications of agent-based model to create personal data">
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website">
 
 
@@ -39,7 +38,7 @@
     <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%E2%9A%9B%EF%B8%8F&lt;/text&gt;&lt;/svg&gt;">
     
     <link rel="stylesheet" href="/sgottschalk.io/assets/css/main.css">
-    <link rel="canonical" href="https://sdgottschalk.github.io//sgottschalk.io/blog/tag/links/">
+    <link rel="canonical" href="https://sdgottschalk.github.io//sgottschalk.io/blog/2023/formatting-and-links/">
 
     <!-- Dark Mode -->
     
@@ -125,27 +124,97 @@
     <!-- Content -->
     <div class="container mt-5">
       
-        <div class="post">
+        <!-- _layouts/post.html -->
+
+<div class="post">
 
   <header class="post-header">
-    <h1 class="post-title"> <i class="fas fa-hashtag fa-sm"></i> links </h1>
-    <p class="post-description"> an archive of posts with this tag </p>
+    <h1 class="post-title">Synthetic data in finance</h1>
+    <p class="post-meta">June 24, 2023</p>
+    <p class="post-tags">
+      <a href="/sgottschalk.io//blog/2023"> <i class="fas fa-calendar fa-sm"></i> 2023 </a>
+        ·  
+        <a href="/sgottschalk.io//blog/tag/fintech">
+          <i class="fas fa-hashtag fa-sm"></i> FinTech</a>  
+          
+        ·  
+        <a href="/sgottschalk.io//blog/category/post">
+          <i class="fas fa-tag fa-sm"></i> post</a>  
+          
+
+    </p>
   </header>
 
-  <article>
-    <div class="table-responsive">
-      <table class="table table-sm table-borderless">
-        
-        <tr>
-          <th scope="row">Mar 15, 2015</th>
-          <td>
-              <a class="post-link" href="/sgottschalk.io/blog/2015/formatting-and-links/">a post with formatting and links</a>
-          </td>
-        </tr>
-      
-      </table>
+  <article class="post-content">
+    
+    <div id="markdown-content">
+      <p>The 2nd <a href="https://www.eftconference.business-school.ed.ac.uk/" rel="external nofollow noopener" target="_blank">Conference on the Economics of Financial Technology</a> gathered more than 100 academics researching on FinTech and AI application to finance. There were a couple of industry applications presented. One of them, Smart Data Foundry, builds on the agent-based models to create synthetic data. The presentation showed how synthetic data can be used by banks to simulate the behaviour of clients without using actual personal data, which can be problematic due to confidentiality requirements or disclosure risks.</p>
+
+<h4 id="what-are-synthetic-data">What are synthetic data?</h4>
+
+<p>Synthetic data are computationally generated to replicate the same characteristics of real data: people, firms, events, interatcions between firms and people. The main difference is that part of these characteristics, or all of them, are artificial. Synthetic data are useful to</p>
+
+<ul>
+    <li>enable applications that would not be possible with real data</li>
+    <li>increase existing datasets to allow the analysis of new scenarios, which cannot be simulated with existing data</li>
+    <li>run simulations without putting at risk the data of real peoples</li>
+    <li>simulate events for which there are no data, e.g., impact of Brexit before Brexit</li>
+</ul>
+
+<h4 id="how-are-synthetic-data-generated">How are synthetic data generated?</h4>
+
+<p>Two main approaches were presented:</p>
+
+<ul>
+    <li>Agent-based modelling (ABM): was developed in economics in the 1990s as agent-based computational economics (ACE). An "agent" is any entity capable of affecting the trajectory of outcomes for a system, such as decision-making entities (e.g., "humans") or physical phenomena with no cognitive function (e.g., "weather"). One of the main characteristics of ABM is the large number of heterogeneous agents. This strongly contrasts with mainstream economics models which are based on the representative consumer, the representative firm, or the representative central planner.</li>
+    <li>Learning-based synthesis: is based on machine learning and machine training on real data. A model is created and trained on real data to learn the patterns in the dataset. The learned patterns are then used to generate synthetic data with the same characteristics and patterns of the real data.</li>
+    
+</ul>
+
+<h4 id="why-synthetic-data">Why synthetic data?</h4>
+
+<p>The concept of synthetic data is puzzling for academics, who aim to produce research that lead to accurate predictions, even though economic models are abstract and rely on simplifying assumptions (e.g. representative consumer). Using real data is thus fundamental for research economists. Some colleagues were disturbed by the very concept of synthetic data, which they interpreted as “fake” data. I had a conversation with the Smart Data Foundry’s Principal Data Scientist Paola Arce, and asked why not use anonymised real data instead of synthetic data. Paola explained that anonymised data may be made available to academics but never to businesses. Even regulators such as the Financial Conduct Authority would have difficulty accessing personal data from firms outside their remit (e.g. data from the Payment Systems Regulator). Synthetic data fill this gap and allow businesses and regulators to analyse consumer behaviour.</p>
+
+<hr>
+
+<p>The presentation was very enlightening and it is good to see real life applications of agent-based models. Hopefully, these models will become more mainstream in economics and finance syllabi.</p>
+
+<h4 id="references">References</h4>
+
+<p>Smart Foundry White Paper: <a href="https://smartdatafoundry.com/news/white-paper-comparing-synthetic-data-approaches-simulation-learning-based-synthesis" rel="external nofollow noopener" target="_blank">https://smartdatafoundry.com/news/white-paper-comparing-synthetic-data-approaches-simulation-learning-based-synthesis</a></p>
+
+
     </div>
   </article>
+
+
+  
+    
+    <br>
+    <hr>
+    <br>
+    <ul class="list-disc pl-8"></ul>
+
+    <!-- Adds related posts to the end of an article -->
+    <h2 class="text-3xl font-semibold mb-4 mt-12">Enjoy Reading This Article?</h2>
+    <p class="mb-2">Here are some more articles you might like to read next:</p>
+  
+
+  <li class="my-2">
+    <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="/sgottschalk.io//blog/2023/Fintech1/">FinTech and bank loans</a>
+  </li>
+
+  
+
+  <li class="my-2">
+    <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="/sgottschalk.io//blog/2023/sidebar-table-of-contents/">DeFi defies rules and expectations</a>
+  </li>
+
+  
+
+  <li class="my-2">
+    <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="/sgottschalk.io//blog/2023/table-of-contents/">EU regulates crypto markets (MiCA)</a>
+  </li>
 
 </div>
 
