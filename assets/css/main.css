@@ -135,7 +135,7 @@ table.table a {
 }
 a:hover,
 table.table a:hover {
-  color: var(#1a521c);
+  color: #1a521c;
   text-decoration: underline;
 }
 a:hover:after :not(.nav-item.dropdown),
