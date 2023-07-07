@@ -1,8 +1,8 @@
 ---
 layout: post
-title: CAPM as discount rate
+title: Death to CAPM 
 date: 2023-07-06 11:12:00
-description: Death to CAPM 
+description: CAPM as discount rate
 tags: CAPM, volatility, asset pricing
 categories: post
 related_posts: true
@@ -12,15 +12,16 @@ The article refers to the use of CAPM's expected return of a stock as a discount
 
 \begin{equation}
 \label{eq:PV}
-{\rm PV}_t=\sum_{s\geq1}\frac{E_t\left[{\rm CF}_{t+s}\right]}{\left(1+r\right)^s}
+{PV}_t=\sum_{s\geq1}\frac{E_t\left[{\rm CF}_{t+s}\right]}{\left(1+r\right)^s}
 \end{equation}
 
 where $PV_t$ is the present value of the expected cash flows of the project (or asset), $CF_{t+s}$ are the future cash flows, $E_t[]$, the expectation operator, and $r$ the discount rate. This generic model has many applications, e.g., the perpetual dividend model (PV is the stock price), or project valuation.
 
 The discount rate should also be stochastic in model (\ref{eq:PV}), since it is usually based on the CAPM equation
+
 \begin{equation}
-\label{eq:PV}  
-E_t[R_{it}]= r_f+\beta\left[E_t[R_{mt}-r_f\right]
+\label{eq:capm}  
+E_t[R_{it}]= r_f+\beta\left(E_t[R_{mt}]-r_f\right)
 \end{equation}
 
 where $R_{it}$ is the return of the stock at time $t$, $R_f$ the risk-free rate and $R_{mt}$ the market return. CAPM’s flaw as a predictor of stock prices come from the confusion between risk and volatility! Beta is a measure of volatility, not risk, and the discount rate required for project and stock price valuation should be a measure of risk. The average realized return of high beta securities does not differ much from low beta securities (Frazzini and Pedersen 2014, Hong and Sraer 2016)
