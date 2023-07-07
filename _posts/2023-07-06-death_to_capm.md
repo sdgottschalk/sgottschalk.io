@@ -15,7 +15,7 @@ The article refers to the use of CAPM's expected return of a stock as a discount
 PV_t=\sum_{s\geq 1}\frac{E_t\left[CF_{t+s}\right]}{\left(1+r\right)^s}
 \end{equation}
 
-where $$PV_t$$ is the present value of the expected cash flows of the project (or asset), $$CF_{t+s}$$ are the future cash flows, $$E_t[]$$, the expectation operator, and $$r$$ the discount rate. This generic model has many applications, e.g., the perpetual dividend model (PV would be the stock price), or project valuation.
+where $$PV_t$$ is the present value of the expected cash flows of the project (or asset), $$CF_{t+s}$$ are the future cash flows, $$E_t[.]$$, the expectation operator, and $$r$$ the discount rate. This generic model has many applications, e.g., the perpetual dividend model (PV would be the stock price), or project valuation.
 
 The discount rate should also be stochastic in model (\ref{eq:PV}), since it is usually based on the CAPM equation
 
@@ -29,7 +29,7 @@ Despite all this, CAPM is still commonly used by firms to calculate discount rat
                                                                         
 ## References
 
-Frazzini, Andrea, and Lasse Pedersen, 2014, Betting against beta, Journal of Financial Economics 111, 1–2, <a href="https://doi.org/10.1016/j.jfineco.2013.10.005"></a>. 
+Frazzini, Andrea, and Lasse Pedersen, 2014, Betting against beta, Journal of Financial Economics 111, 1–2, <a href="https://doi.org/10.1016/j.jfineco.2013.10.005">https://doi.org/10.1016/j.jfineco.2013.10.005</a>. 
 
 Gormsen, Niels Joachim and Huber, Kilian, Equity Factors and Firms’ Perceived Cost of Capital (January 4, 2023). Available at 
 <a href="https://ssrn.com/abstract=3712699">SSRN</a> or <a href="http://dx.doi.org/10.2139/ssrn.3712699">http://dx.doi.org/10.2139/ssrn.3712699</a> 
