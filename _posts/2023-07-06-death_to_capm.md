@@ -7,7 +7,7 @@ tags: CAPM, volatility, asset pricing
 categories: post
 related_posts: true
 ---
-Very strong words in the <a href="https://www.ft.com/content/efe30c0c-c239-4528-a643-0a888b6c897d">Financial Times!</a>. 
+Very strong words in the <a href="https://www.ft.com/content/efe30c0c-c239-4528-a643-0a888b6c897d">Financial Times!</a>
 The article refers to the use of CAPM's expected return of a stock as a discount factor in corporate valuation models. 
 
 \begin{equation}
@@ -32,17 +32,17 @@ Despite all this, CAPM is still commonly used by firms to calculate discount rat
 Frazzini, Andrea, and Lasse Pedersen, 2014, Betting against beta, Journal of Financial Economics 111, 1–2, <a href="https://doi.org/10.1016/j.jfineco.2013.10.005"></a>. 
 
 Gormsen, Niels Joachim and Huber, Kilian, Equity Factors and Firms’ Perceived Cost of Capital (January 4, 2023). Available at 
-<a href="https://ssrn.com/abstract=3712699">SSRN</a> or <a href="http://dx.doi.org/10.2139/ssrn.3712699"></a> 
+<a href="https://ssrn.com/abstract=3712699">SSRN</a> or <a href="http://dx.doi.org/10.2139/ssrn.3712699">http://dx.doi.org/10.2139/ssrn.3712699</a> 
 
-Graham, John, 2022, Corporate finance and reality, Journal of Finance, <a href="https://doi.org/10.1111/jofi.13161"></a>
+Graham, John, 2022, Corporate finance and reality, Journal of Finance, <a href="https://doi.org/10.1111/jofi.13161">https://doi.org/10.1111/jofi.13161</a>
 
 Nicolas Hommel, Augustin Landier, David Thesmar (2023) Corporate valuation:An empirical comparison of discounting methods, Working Paper 30898
-<a href="http://www.nber.org/papers/w30898"></a>
+<a href="http://www.nber.org/papers/w30898">http://www.nber.org/papers/w30898</a>
 
-Hong, H. and Sraer, D.A. (2016), Speculative Betas. The Journal of Finance, 71: 2095-2144. <a href="https://doi.org/10.1111/jofi.12431"></a>
+Hong, H. and Sraer, D.A. (2016), Speculative Betas. The Journal of Finance, 71: 2095-2144. <a href="https://doi.org/10.1111/jofi.12431">https://doi.org/10.1111/jofi.1243</a>
 
 Ravi Jagannathan, David A. Matsa, Iwan Meier, Vefa Tarhan(2016) Why do firms use high discount rates?, Journal of Financial Economics, Volume 120, Issue 3,Pages 445-463,
-<a href="https://doi.org/10.1016/j.jfineco.2016.01.012"</a>.
+<a href="https://doi.org/10.1016/j.jfineco.2016.01.012">https://doi.org/10.1016/j.jfineco.2016.01.012</a>.
 
 <a href="https://youtu.be/KmQk4zkrdzU">Hear Warren Buffett on beta, volatility and risk</a>  . 
 
