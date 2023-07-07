@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ACQF
-description: Applied computational and quantitative and finance
+description: Applied computational and quantitative finance
 img: assets/img/quant_green.jpg
 redirect: https://sdgottschalk-acqf.netlify.app
 importance: 3
