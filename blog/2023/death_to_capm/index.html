@@ -10,9 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>CAPM as discount rate | Sylvia  Gottschalk</title>
+    <title>Death to CAPM | Sylvia  Gottschalk</title>
     <meta name="author" content="Sylvia  Gottschalk">
-    <meta name="description" content="Death to CAPM">
+    <meta name="description" content="CAPM as discount rate">
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website">
 
 
@@ -129,7 +129,7 @@
 <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">CAPM as discount rate</h1>
+    <h1 class="post-title">Death to CAPM</h1>
     <p class="post-meta">July 6, 2023</p>
     <p class="post-tags">
       <a href="/sgottschalk.io//blog/2023"> <i class="fas fa-calendar fa-sm"></i> 2023 </a>
@@ -159,15 +159,16 @@ The article refers to the use of CAPM’s expected return of a stock as a discou
 
 <p>\begin{equation}
 \label{eq:PV}
-{\rm PV}<em>t=\sum</em>{s\geq1}\frac{E_t\left[{\rm CF}_{t+s}\right]}{\left(1+r\right)^s}
+{PV}<em>t=\sum</em>{s\geq1}\frac{E_t\left[{\rm CF}_{t+s}\right]}{\left(1+r\right)^s}
 \end{equation}</p>
 
 <p>where $PV_t$ is the present value of the expected cash flows of the project (or asset), $CF_{t+s}$ are the future cash flows, $E_t[]$, the expectation operator, and $r$ the discount rate. This generic model has many applications, e.g., the perpetual dividend model (PV is the stock price), or project valuation.</p>
 
-<p>The discount rate should also be stochastic in model (\ref{eq:PV}), since it is usually based on the CAPM equation
-\begin{equation}
-\label{eq:PV}<br>
-E_t[R_{it}]= r_f+\beta\left[E_t[R_{mt}-r_f\right]
+<p>The discount rate should also be stochastic in model (\ref{eq:PV}), since it is usually based on the CAPM equation</p>
+
+<p>\begin{equation}
+\label{eq:capm}<br>
+E_t[R_{it}]= r_f+\beta\left(E_t[R_{mt}]-r_f\right)
 \end{equation}</p>
 
 <p>where $R_{it}$ is the return of the stock at time $t$, $R_f$ the risk-free rate and $R_{mt}$ the market return. CAPM’s flaw as a predictor of stock prices come from the confusion between risk and volatility! Beta is a measure of volatility, not risk, and the discount rate required for project and stock price valuation should be a measure of risk. The average realized return of high beta securities does not differ much from low beta securities (Frazzini and Pedersen 2014, Hong and Sraer 2016)
