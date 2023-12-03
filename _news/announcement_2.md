@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Crypto and Digital Assets Summit - 8-9 May 2024 (https://crypto2024.live.ft.com/)
-date: 2023-05-13 16:11:00-0400
+title: CQF Institute Conference - 13th Mar 2024 (https://www.cqfinstitute.org/content/conference-portfolio-management-quant-finance)
+date: 2023-11-23 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-The Crypto and Digital Assets Summit returns in Spring 2024 as the pre-eminent gathering for traditional financial institutions, regulators and digital assets entrepreneurs. The two day summit brings together the world's industry leaders to share how they will navigate the issues facing the crypto industry as well as the opportunities in its technology and market potential.
+Portfolio Management in Quant Finance Conference returns in Spring 2024. Get insights from industry experts, explore cutting-edge techniques, models, and strategies, and enjoy professional networking. For more details go to [CQF Institute Conference] (https://www.cqfinstitute.org/content/conference-portfolio-management-quant-finance)
