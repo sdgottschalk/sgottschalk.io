@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-ERC-DBT:Longitudinal Small Business Survey dissemination event: 16 November 2023. WBS london - The Shard 
+ERC-DBT:Longitudinal Small Business Survey dissemination event-16 Nov. 2023. WBS London - The Shard 
