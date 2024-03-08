@@ -7,10 +7,10 @@
  ******************************************************************************/
 :root {
   --global-bg-color: #ffffff;
-  --global-code-bg-color: rgba(62, 128, 78, 0.05);
+  --global-code-bg-color: rgba(28, 100, 183, 0.05);
   --global-text-color: #000000;
   --global-text-color-light: #828282;
-  --global-theme-color: #3e804e;
+  --global-theme-color: #1c64b7;
   --global-hover-color: #F29105;
   --global-hover-text-color: #00ab37;
   --global-footer-bg-color: #1C1C1D;
