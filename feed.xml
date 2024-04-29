@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://sdgottschalk.github.io//sgottschalk.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sdgottschalk.github.io//sgottschalk.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-04-29T16:51:37+00:00</updated><id>https://sdgottschalk.github.io//sgottschalk.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://sdgottschalk.github.io//sgottschalk.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sdgottschalk.github.io//sgottschalk.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-04-29T16:58:06+00:00</updated><id>https://sdgottschalk.github.io//sgottschalk.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">Gender and ethnicity in Accountancy magazine, 2008-2011</title><link href="https://sdgottschalk.github.io//sgottschalk.io/blog/2024/accountancy/" rel="alternate" type="text/html" title="Gender and ethnicity in Accountancy magazine, 2008-2011" /><published>2024-04-28T11:12:00+00:00</published><updated>2024-04-28T11:12:00+00:00</updated><id>https://sdgottschalk.github.io//sgottschalk.io/blog/2024/accountancy</id><content type="html" xml:base="https://sdgottschalk.github.io//sgottschalk.io/blog/2024/accountancy/"><![CDATA[<h2 id="gender-and-ethnicity-in-accountancy-magazine">Gender and ethnicity in Accountancy magazine</h2>
 <p>‘Accountancy Magazine’, is an official publication of the Institute of Chartered Accountants in England and Wales (ICAEW). As such it is a snapshot of how the ICAEW utilizes imagery to portray its identity to its members. There has been a steady stream of research on visual elements in accounting by examining the depictions of women and minority ethnic groups in publications of professional bodies. Our research investigates the images in 39 issues of Accountancy Magazine from July 2008- September 2011- when the magazine was discontinued.</p>
 <h2 id="the-professions-after-the-milburn-report-and-equality-act">The professions after the Milburn report and Equality Act</h2>
@@ -10,7 +10,7 @@
 <h2 id="reference">Reference</h2>
 <p>Calling to Account: Representations of Gender and Ethnicity in Accountancy Magazine (2008-2011)? by Orthodoxia Kyriacou, Jonathan Ashong?Lamptey Sylvia Gottschalk, Othmar Lehner, Christina Neokleous, and George Kapaya</p>]]></content><author><name></name></author><category term="post" /><category term="BME," /><category term="gender," /><category term="professions," /><category term="accountancy" /><summary type="html"><![CDATA[Analysing representation in the professions]]></summary></entry><entry><title type="html">Bond price between coupon payments</title><link href="https://sdgottschalk.github.io//sgottschalk.io/blog/2024/closed-form/" rel="alternate" type="text/html" title="Bond price between coupon payments" /><published>2024-04-23T11:12:00+00:00</published><updated>2024-04-23T11:12:00+00:00</updated><id>https://sdgottschalk.github.io//sgottschalk.io/blog/2024/closed-form</id><content type="html" xml:base="https://sdgottschalk.github.io//sgottschalk.io/blog/2024/closed-form/"><![CDATA[<p>Gottschalk (2018) presents a simple closed-form formula for bond pricing between coupon payments that derives from first principles and is theoretically correct. The results are more general than the current framework, and encompass the conventional formula for pricing  bonds at coupon dates as a special case.</p>
 
-<p>Let $y\in \mathbb{R}$, let $M, i, w \in \mathbb{R}_{++}$, and let $N\in \mathbb{N}$, then the fair price of a coupon bond between coupon payments is</p>
+<p>Let \(y\in \mathbb{R}\), let \(M, i, w \in \mathbb{R}_{++}\), and let \(N\in \mathbb{N}\), then the fair price of a coupon bond between coupon payments is</p>
 
 <p>\begin{equation}
 P=q^{w}\left(M\,i\,\frac{1-q^{N+1}}{1-q}+M\,q^{N}\right)\label{tbasic}
@@ -18,7 +18,7 @@ P=q^{w}\left(M\,i\,\frac{1-q^{N+1}}{1-q}+M\,q^{N}\right)\label{tbasic}
 
 <p>Proof</p>
 
-<p>Let $q\equiv \frac{1}{(1+y)}$, then,</p>
+<p>Let \(q\equiv \frac{1}{(1+y)}\), then,</p>
 
 <p>\begin{equation}
 P=q^{w}\left(M\,i\sum_{t=0}^{N} q^{t}+M\, q^{N}\right)\label{treasury1}
