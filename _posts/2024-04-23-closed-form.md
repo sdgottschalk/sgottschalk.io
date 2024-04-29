@@ -3,7 +3,7 @@ layout: post
 title: Bond price between coupon payments  
 date: 2024-04-23 11:12:00
 description: Pricing bonds between coupon payments
-tags:Closed-form fomula, bond pricing
+tags: Closed-form fomula, bond pricing
 categories: post
 related_posts: true
 ---
