@@ -11,17 +11,17 @@ Gottschalk (2018) presents a simple closed-form formula for bond pricing between
 
 Let $y\in \mathbb{R}$, let $M, i, w \in \mathbb{R}_{++}$, and let $N\in \mathbb{N}$, then the fair price of a coupon bond between coupon payments is
 
-$$
+\begin{equation}
 P=q^{w}\left(M\,i\,\frac{1-q^{N+1}}{1-q}+M\,q^{N}\right)\label{tbasic}
-$$
+\end{equation}
 
 Proof
 
 Let $q\equiv \frac{1}{(1+y)}$, then,
 
-$$
+\begin{equation}
 P=q^{w}\left(M\,i\sum_{t=0}^{N} q^{t}+M\, q^{N}\right)\label{treasury1}
-$$
+\end{equation}
 
 The sum can be expanded to
 
