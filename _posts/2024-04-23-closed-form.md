@@ -7,9 +7,9 @@ tags: Closed-form fomula, bond pricing
 categories: post
 related_posts: true
 ---
-Gottschalk (2018) presents a simple closed-form formula for bond pricing between coupon payments that derives from first principles and is theoretically correct. Our results are more general than the current framework, and we prove that we can retrieve the conventional formula for pricing  bonds at coupon dates as a special case. We also demonstrate that bond traders' `dirty price' effectively assumes that interest between coupon payment is simple interest, when mathematical consistency requires that all interest should be coumpounded.\\ 
+Gottschalk (2018) presents a simple closed-form formula for bond pricing between coupon payments that derives from first principles and is theoretically correct. The results are more general than the current framework, and encompass the conventional formula for pricing  bonds at coupon dates as a special case.
 
-Let $y\in \mathbb{R}$, let $M$,$ $i, $w \in \R_{++}$, and let $N\in \mathbb{N}$, then the fair price of a coupon bond between coupon payments under the `Treasury' method is
+Let $y\in \mathbb{R}$, let $M$,$ $i, $w \in \R_{++}$, and let $N\in \mathbb{N}$, then the fair price of a coupon bond between coupon payments is
 
 \begin{equation}
 P=q^{w}\left\{M\,i\,\frac{1-q^{N+1}}{1-q}+M\,q^{N}\right\}\label{tbasic}
