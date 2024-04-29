@@ -7,7 +7,8 @@ tags: Sovereign Bond-Backed Securities (SBBS)
 categories: post
 related_posts: true
 ---
-    
+   <span style="font-size:0.5em;">
+ 
    |country |PD | LGD | EAD | $$\rho$$ | $$\rho$$ | $$\rho$$ | $$w_n$$|
    | Germany | 0.05  | 0.4   | 1327816 | 0.3   | 0.5   | 0.7   | 0.2816 |
    | The Netherlands | 0.1   | 0.4   | 388866 | 0.3   | 0.5   | 0.7   | 0.0661 |
@@ -29,7 +30,7 @@ related_posts: true
    | Cyprus | 0.75  | 0.875 | 30348 | 0.3   | 0.5   | 0.7   | 0.0019 |
    | Greece | 0.95  | 0.95  | 348350 | 0.3   | 0.5   | 0.7   | 0.0201 | 
    | average | 0.421053 | 0.663421 |                              |
-  
+</span>  
 [Source: Author's own based on Brunnermeier(2017) Table 1.]
 
 PD: probability of default; LGD: loss given default;$$\rho$$: correlation of $$B_{n}$$ with common factor; $$w_n$$ weight of country's sovereign bonds in underlying portfolio. 
