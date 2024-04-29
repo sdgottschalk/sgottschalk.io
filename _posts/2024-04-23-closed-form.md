@@ -9,14 +9,14 @@ related_posts: true
 ---
 Gottschalk (2018) presents a simple closed-form formula for bond pricing between coupon payments that derives from first principles and is theoretically correct. The results are more general than the current framework, and encompass the conventional formula for pricing  bonds at coupon dates as a special case.
 
-Let \[y\in \mathbb{R}\], let \[M\], \[i\], \[w \in \mathbb{R}_{++}\], and let \[N\in \mathbb{N}\], then the fair price of a coupon bond between coupon payments is
+Let $$y\in \mathbb{R}$$, let $$M, i, w \in \mathbb{R}_{++}$$, and let $$N\in \mathbb{N}$$, then the fair price of a coupon bond between coupon payments is
 
 \begin{equation}
 P=q^{w}\left(M\,i\,\frac{1-q^{N+1}}{1-q}+M\,q^{N}\right)\label{tbasic}
 \end{equation}
-\end{theorem}
 
-\begin{proof}
+Proof
+
 Let $q\equiv \frac{1}{(1+y)}$, then,
 
 \begin{equation}
