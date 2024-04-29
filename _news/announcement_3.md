@@ -2,7 +2,7 @@
 layout: post
 title: modelling banking book products - 30 May 2024
 date: 2024-04-23 07:59:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 
