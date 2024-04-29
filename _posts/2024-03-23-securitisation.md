@@ -34,26 +34,26 @@ related_posts: true
 
 PD: probability of default; LGD: loss given default;$$\rho$$: correlation of $$B_{n}$$ with common factor; $$w_n$$ weight of country's sovereign bonds in underlying portfolio. 
 
-Cumulative expected tranche loss (as \% of total expected loss) - Student \emph{t} copula
+Cumulative expected tranche loss (as % of total expected loss) - Student t copula
   
-|Correlation ($\rho$)          | 30\%  | 50\%  | 70\%  |       | 30\%  | 50\%  | 70\% |
+|Correlation ($$\rho$$)          | 30%  | 50%  | 70%  |       | 30%  | 50%  | 70% |
  Subordination  | 10/90 |10/90 | 10/90 | |20/80 | 20/80 | 20/80 |
   Junior | 0.437593 | 0.4433023 | 0.4008345 |       | 0.7461881 | 0.7170992 | 0.8166356 |
    Senior | 1.0000000 | 1.0000000 | 1.0000000 |       | 1.0000000 | 1.0000000 | 1.0000000 |
-          |       |       |       |       |       |       |  | \
-Correlation ($\rho$) | 30\%  | 50\%  | 70\%  |       | 30\%  | 50\%  | 70\% | \midrule
- Subordination | \multicolumn{1}{l}{30/70} | \multicolumn{1}{l}{30/70} | \multicolumn{1}{l}{30/70} |       | 40/60 | 40/60 | 40/60 |
+          |       |       |       |       |       |       |  | 
+Correlation ($$\rho$$) | 30%  | 50%  | 70%  |       | 30%  | 50%  | 70% | 
+Subordination |30/70 | 30/70 | 30/70 |       | 40/60 | 40/60 | 40/60 |
    Junior | 0.808988 | 0.8029003 | 0.8290505 |       | 0.8168696 | 0.8192056 | 0.8308591 |
     Senior | 1.0000000 | 1.0000000 | 1.0000000 |       | 1.0000000 | 1.0000000 | 1.0000000 |
              |       |       |       |       |       |       |  | 
-Correlation ($\rho$)| 30\%  | 50\%  | 70\%  |       | 30\%  | 50\%  | 70\% |
+Correlation ($$\rho$$)| 30%  | 50%  | 70%  |       | 30%  | 50%  | 70% |
  Subordination| 50/50 | 50/50 |50/50 |       | iTRAXX | iTRAXX | iTRAXX | 
-    \multicolumn{1}{l}{Junior} | 0.820388 | 0.8276687 | 0.832575 | 0\%-3\% | 0.0905288 | 0.1473061 | 0.0011647 |
-    \multicolumn{1}{l}{Senior} | 1.0000000 | 1.0000000 | 1.0000000 | 3\%-6\% | 0.2782576 | 0.3060663 | 0.1780716 |
-          |       |       |       | 6\%-9\% | 0.3984941 | 0.4053905 | 0.3478753 |
-          |       |       |       | 9\%-12\% | 0.5106444 | 0.4995052 | 0.5067522 |
-          |       |       |       | 12\%-22\% | 0.7680178 | 0.73692 | 0.8246559 |
-          |       |       |       | 22\%-100\% | 1.0000000 | 1.0000000 | 1.0000000 |
+ Junior | 0.820388 | 0.8276687 | 0.832575 | 0%-3% | 0.0905288 | 0.1473061 | 0.0011647 |
+ Senior | 1.0000000 | 1.0000000 | 1.0000000 | 3%-6% | 0.2782576 | 0.3060663 | 0.1780716 |
+          |       |       |       | 6%-9% | 0.3984941 | 0.4053905 | 0.3478753 |
+          |       |       |       | 9%-12% | 0.5106444 | 0.4995052 | 0.5067522 |
+          |       |       |       | 12%-22% | 0.7680178 | 0.73692 | 0.8246559 |
+          |       |       |       | 22%-100% | 1.0000000 | 1.0000000 | 1.0000000 |
 
 The table shows the values of $$(E[L]-E[(L-K)^{+}])/E[L]$$, for $$K= 10\%, 20\%,..,100\%$$. Simulations based on probability of default given by PD in Table 1. This table reports expectations of loss from 0 to the upper attachment bound and normalized to the expected loss.	
 
