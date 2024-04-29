@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gender and ethnicity in Accountancy magazine, 2008?2011
+title: Gender and ethnicity in Accountancy magazine, 2008-2011
 date: 2024-04-28 11:12:00
 description: Analysing representation in the professions
 tags: BME, gender, professions, accountancy
