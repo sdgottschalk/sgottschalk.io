@@ -19,9 +19,9 @@ Proof
 
 Let $q\equiv \frac{1}{(1+y)}$, then,
 
-\begin{equation}
+$$
 P=q^{w}\left(M\,i\sum_{t=0}^{N} q^{t}+M\, q^{N}\right)\label{treasury1}
-\end{equation} 
+$$
 
 The sum can be expanded to
 
