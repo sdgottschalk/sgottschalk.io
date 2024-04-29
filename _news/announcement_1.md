@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-11-3 15:59:00-0400
+date: 2024-04-28 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-ERC-DBT:Longitudinal Small Business Survey dissemination event-16 Nov. 2023. WBS London - The Shard 
+Biodiversity Net Gain and Green Finance for SMEs-A Midlands Perspective - Birmingham City University 5 July 24 
