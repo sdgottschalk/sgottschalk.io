@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[ISBE Annual Conference Birmingham 8-10 Nov. 2023 ]([https://www.ft.com/content/11b98480-d4fc-45c2-8dca-cdc9386cdebe](https://isbe.org.uk/isbe-2023/)https://isbe.org.uk/isbe-2023/)
+Priya Balan (Barclays) talks about modelling banking book products: Understanding Impact Of Human Behaviour - CQF Institute 30 May 2024. [https://www.cqfinstitute.org/content/london-society-meeting-modelling-banking-book-products-understanding-impact-human-behaviour] 
