@@ -8,7 +8,6 @@ categories: post
 related_posts: true
 ---
     
-	```markdown
    |country |PD | LGD | EAD | $$\rho$$ | $$\rho$$ | $$\rho$$ | $$w_n$$|
    | Germany | 0.05  | 0.4   | 1327816 | 0.3   | 0.5   | 0.7   | 0.2816 |
    | The Netherlands | 0.1   | 0.4   | 388866 | 0.3   | 0.5   | 0.7   | 0.0661 |
@@ -30,8 +29,10 @@ related_posts: true
    | Cyprus | 0.75  | 0.875 | 30348 | 0.3   | 0.5   | 0.7   | 0.0019 |
    | Greece | 0.95  | 0.95  | 348350 | 0.3   | 0.5   | 0.7   | 0.0201 | 
    | average | 0.421053 | 0.663421 |                              |
-  ```
-Source: Author's own based on Brunnermeier(2017) Table 1. PD: probability of default; LGD: loss given default;$$\rho$$: correlation of $$B_{n}$$ with common factor; $$w_n$$ weight of country's sovereign bonds in underlying portfolio. 
+  
+[Source: Author's own based on Brunnermeier(2017) Table 1.]
+
+PD: probability of default; LGD: loss given default;$$\rho$$: correlation of $$B_{n}$$ with common factor; $$w_n$$ weight of country's sovereign bonds in underlying portfolio. 
 
 Cumulative expected tranche loss (as \% of total expected loss) - Student \emph{t} copula
   
@@ -54,5 +55,5 @@ Correlation ($\rho$)| 30\%  | 50\%  | 70\%  |       | 30\%  | 50\%  | 70\% |
           |       |       |       | 12\%-22\% | 0.7680178 | 0.73692 | 0.8246559 |
           |       |       |       | 22\%-100\% | 1.0000000 | 1.0000000 | 1.0000000 |
 
-The table shows the values of $$(E[L]-E[(L-K)^{+}])/E[L]$$, for $$K= 10\%, 20\%,..,100\%$$. Simulations based on probability of default given by PD in Table \ref{tab:sims}. This table reports expectations of loss from 0 to the upper attachment bound and normalized to the expected loss.}	
+The table shows the values of $$(E[L]-E[(L-K)^{+}])/E[L]$$, for $$K= 10\%, 20\%,..,100\%$$. Simulations based on probability of default given by PD in Table 1. This table reports expectations of loss from 0 to the upper attachment bound and normalized to the expected loss.	
 
