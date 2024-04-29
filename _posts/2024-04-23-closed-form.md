@@ -46,5 +46,5 @@ Substituting (\ref{tsum1d}) into (\ref{treasury1}) yields (\ref{tbasic}).
 ## References
 
 Gottschalk, S. (2018). A closed-form formula for pricing bonds between coupon payments. Mathematical Finance Letters. 2018, pp. 1-16.
-<a href="https://scik.org/index.php/mfl/article/view/3650/1793">https://scik.org/index.php/mfl/article/view/3650/1793</a>
-<a href="https://repository.mdx.ac.uk/item/87qzz">https://scik.org/index.php/mfl/article/view/3650/1793</a>
+<a href="https://scik.org/index.php/mfl/article/view/3650/1793">https://scik.org/index.php/mfl/article/view/3650/1793</a> or 
+<a href="https://repository.mdx.ac.uk/item/87qzz">[https://scik.org/index.php/mfl/article/view/3650/1793](https://repository.mdx.ac.uk/item/87qzz)</a>
