@@ -59,24 +59,23 @@ In Table , PD is the probability of default; LGD the loss given default; $$\rho_
 Table 2 shows the values of $$(E[L]-E[(L-K)^{+}])/E[L]$$, for $$K= 10%, 20%,..,100%$$. Simulations based on probability of default given by PD in Table 1. This table reports expectations of loss from 0 to the upper attachment bound and normalized to the expected loss.	
 
   
-|Correlation ($$\rho$$) | 30%  | 50%  | 70%  |       | 30%  | 50%  | 70% |
-| Subordination          | 10/90 |10/90 | 10/90 |     |20/80 | 20/80| 20/80 |
-| Junior                 | 0.4376 | 0.4433 | 0.4008 | | 0.7463 | 0.7171 | 0.8166 |
-| Senior                 | 1.0000 | 1.0000 | 1.0000 | | 1.0000 | 1.0000 | 1.0000 |
-|          |       |       |       |       |       |       |  | 
-|Correlation ($$\rho$$) | 30%  | 50%  | 70%  |       | 30%  | 50%  | 70% | 
-|Subordination |30/70 | 30/70 | 30/70 |       | 40/60 | 40/60 | 40/60 |
-|   Junior | 0.8090 | 0.8029 | 0.8291 |       | 0.8169 | 0.8192 | 0.8309 |
-|    Senior | 1.0000 | 1.0000 | 1.0000 |       | 1.0000 | 1.0000 | 1.0000 |
-|             |       |       |       |       |       |       |  | 
-|Correlation ($$\rho$$)| 30%  | 50%  | 70%  |       | 30%  | 50%  | 70% |
-| Subordination| 50/50 | 50/50 |50/50 |       | iTRAXX | iTRAXX | iTRAXX | 
-| Junior | 0.820388 | 0.8276687 | 0.832575 | 0%-3% | 0.0905288 | 0.1473061 | 0.0011647 |
-| Senior | 1.0000 | 1.0000 | 1.0000 | 3%-6% | 0.2783 | 0.3061 | 0.1781 |
-|        |       |       |       |           | 6%-9% | 0.39850 | 0.4054 | 0.3479 |
-|        |       |       |       |           | 9%-12% | 0.5106 | 0.4995 | 0.5068 |
-|        |       |       |       |           |12%-22% | 0.7680 | 0.7369 | 0.8247 |
-|        |       |       |       |           |22%-100% | 1.0000 | 1.0000 | 1.0000 |
+|Correlation ($$\rho$$) | 30%  | 50%  | 70%  | | 30%  | 50%  | 70%  |
+| Subordination         |10/90 |10/90 |10/90 | |20/80 | 20/80| 20/80|
+| Junior                |0.4376|0.4433|0.4008| |0.7463|0.7171|0.8166|
+| Senior                |1.0000|1.0000|1.0000| |1.0000|1.0000|1.0000|
+|Correlation ($$\rho$$) | 30%  | 50%  | 70%  | | 30%  | 50%  | 70%  | 
+|Subordination          |30/70 |30/70 |30/70 | |40/60 |40/60 |40/60 |
+|Junior                 |0.8090|0.8029|0.8291| |0.8169|0.8192|0.8309|
+|Senior                 |1.0000|1.0000|1.0000| |1.0000|1.0000|1.0000|
+|Correlation ($$\rho$$) | 30%  | 50%  | 70%  | |30%   | 50%  | 70%  |
+| Subordination         |50/50 | 50/50|50/50 | |iTRAXX|iTRAXX|iTRAXX| 
+| Junior                |0.8204|0.8277|0.8326|0%-3%|0.0905|0.1473|0.0012|
+| Senior                |1.0000|1.0000|1.0000|3%-6%|0.2783|0.3061|0.1781|
+|                       |       |     |      |6%-9%|0.3985|0.4054|0.3479|
+|                       |       |     |      |9%-12%|0.5106|0.4995|0.5068|
+|                       |       |     |      |12%-22% | 0.7680 | 0.7369 | 0.8247 |
+|                       |       |     |      |22%-100% | 1.0000 | 1.0000 | 1.0000 |
+
 [Table 2. Cumulative expected tranche loss (as % of total expected loss) - Student t copula]
 
 Table 2 shows the expected tranche losses of the EJBies and ESBies, when 1 million  Monte Carlo simulations of equation (\ref{factor1})  with Student t copula are run. The Student t distribution has heavier tails than the Gaussian distribution, and has long been recognised as more appropriate to capture extreme financial losses. The value of the total expected loss has increased to $$E[L]$$ = 0.17 and the maximum possible loss is $$L_{max}$$ = 66 percent of the underlying portfolio. Table 2 clearly shows that even at a 50/50 subordination level the Senior tranche incurs losses of at least 17% of the total expected portfolio losses ($$\rho=0.3$$). These are the lowest levels of losses of all the subordination schemes. For the 10/90 subordination, the expected losses of the Senior tranche are the highest and reach 60% ($$\rho=0.7$$). For 10/90, $$\rho=0.3$$ and $$\rho=0.5$$,  the expected losses of the Senior tranche are 0.56%. 
