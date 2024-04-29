@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-[modelling banking book products] (https://www.cqfinstitute.org/content/london-society-meeting-modelling-banking-book-products-understanding-impact-human-behaviour) - Priya Balan (Barclays) at CQF Institute-
+[modelling banking book products](https://www.cqfinstitute.org/content/london-society-meeting-modelling-banking-book-products-understanding-impact-human-behaviour) - Priya Balan (Barclays) at CQF Institute-
