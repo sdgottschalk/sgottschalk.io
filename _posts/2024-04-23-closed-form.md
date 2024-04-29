@@ -42,7 +42,6 @@ S=\frac{1-q^{N+1}}{1-q}\label{tsum1d}
 \end{equation}
 
 Substituting (\ref{tsum1d}) into (\ref{treasury1}) yields (\ref{tbasic}).
-\end{proof}
                                                                         
 ## References
 
