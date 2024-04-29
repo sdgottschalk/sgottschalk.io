@@ -159,27 +159,209 @@
 
 <p>Cumulative expected tranche loss (as \% of total expected loss) - Student \emph{t} copula</p>
 
-<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>|Correlation ($<span class="se">\r</span>ho$)          | 30<span class="se">\%</span>  | 50<span class="se">\%</span>  | 70<span class="se">\%</span>  |       | 30<span class="se">\%</span>  | 50<span class="se">\%</span>  | 70<span class="se">\%</span> |
-|:------------------------------------------------------------------------------------:|
- Subordination  | 10/90 |10/90 | 10/90 | |20/80 | 20/80 | 20/80 |
-  Junior | 0.437593 | 0.4433023 | 0.4008345 |       | 0.7461881 | 0.7170992 | 0.8166356 |
-   Senior | 1.0000000 | 1.0000000 | 1.0000000 |       | 1.0000000 | 1.0000000 | 1.0000000 |
-          |       |       |       |       |       |       |  | <span class="err">\</span>
-Correlation ($<span class="se">\r</span>ho$) | 30<span class="se">\%</span>  | 50<span class="se">\%</span>  | 70<span class="se">\%</span>  |       | 30<span class="se">\%</span>  | 50<span class="se">\%</span>  | 70<span class="se">\%</span> | <span class="se">\m</span>idrule
- Subordination | <span class="se">\m</span>ulticolumn{1}{l}{30/70} | <span class="se">\m</span>ulticolumn{1}{l}{30/70} | <span class="se">\m</span>ulticolumn{1}{l}{30/70} |       | 40/60 | 40/60 | 40/60 |
-   Junior | 0.808988 | 0.8029003 | 0.8290505 |       | 0.8168696 | 0.8192056 | 0.8308591 |
-    Senior | 1.0000000 | 1.0000000 | 1.0000000 |       | 1.0000000 | 1.0000000 | 1.0000000 |
-             |       |       |       |       |       |       |  | 
-Correlation ($<span class="se">\r</span>ho$)| 30<span class="se">\%</span>  | 50<span class="se">\%</span>  | 70<span class="se">\%</span>  |       | 30<span class="se">\%</span>  | 50<span class="se">\%</span>  | 70<span class="se">\%</span> |
- Subordination| 50/50 | 50/50 |50/50 |       | iTRAXX | iTRAXX | iTRAXX | 
-    <span class="se">\m</span>ulticolumn{1}{l}{Junior} | 0.820388 | 0.8276687 | 0.832575 | 0<span class="se">\%</span>-3<span class="se">\%</span> | 0.0905288 | 0.1473061 | 0.0011647 |
-    <span class="se">\m</span>ulticolumn{1}{l}{Senior} | 1.0000000 | 1.0000000 | 1.0000000 | 3<span class="se">\%</span>-6<span class="se">\%</span> | 0.2782576 | 0.3060663 | 0.1780716 |
-          |       |       |       | 6<span class="se">\%</span>-9<span class="se">\%</span> | 0.3984941 | 0.4053905 | 0.3478753 |
-          |       |       |       | 9<span class="se">\%</span>-12<span class="se">\%</span> | 0.5106444 | 0.4995052 | 0.5067522 |
-          |       |       |       | 12<span class="se">\%</span>-22<span class="se">\%</span> | 0.7680178 | 0.73692 | 0.8246559 |
-          |       |       |       | 22<span class="se">\%</span>-100<span class="se">\%</span> | 1.0000000 | 1.0000000 | 1.0000000 |
-|:---------------------------------------------------------------------------------:|
-</code></pre></div></div>
+<table>
+  <tbody>
+    <tr>
+      <td>Correlation ($\rho$)</td>
+      <td>30\%</td>
+      <td>50\%</td>
+      <td>70\%</td>
+      <td> </td>
+      <td>30\%</td>
+      <td>50\%</td>
+      <td>70\%</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Subordination</td>
+      <td>10/90</td>
+      <td>10/90</td>
+      <td>10/90</td>
+      <td> </td>
+      <td>20/80</td>
+      <td>20/80</td>
+      <td>20/80</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Junior</td>
+      <td>0.437593</td>
+      <td>0.4433023</td>
+      <td>0.4008345</td>
+      <td> </td>
+      <td>0.7461881</td>
+      <td>0.7170992</td>
+      <td>0.8166356</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Senior</td>
+      <td>1.0000000</td>
+      <td>1.0000000</td>
+      <td>1.0000000</td>
+      <td> </td>
+      <td>1.0000000</td>
+      <td>1.0000000</td>
+      <td>1.0000000</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>\</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Correlation ($\rho$)</td>
+      <td>30\%</td>
+      <td>50\%</td>
+      <td>70\%</td>
+      <td> </td>
+      <td>30\%</td>
+      <td>50\%</td>
+      <td>70\%</td>
+      <td>\midrule</td>
+    </tr>
+    <tr>
+      <td>Subordination</td>
+      <td>\multicolumn{1}{l}{30/70}</td>
+      <td>\multicolumn{1}{l}{30/70}</td>
+      <td>\multicolumn{1}{l}{30/70}</td>
+      <td> </td>
+      <td>40/60</td>
+      <td>40/60</td>
+      <td>40/60</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Junior</td>
+      <td>0.808988</td>
+      <td>0.8029003</td>
+      <td>0.8290505</td>
+      <td> </td>
+      <td>0.8168696</td>
+      <td>0.8192056</td>
+      <td>0.8308591</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Senior</td>
+      <td>1.0000000</td>
+      <td>1.0000000</td>
+      <td>1.0000000</td>
+      <td> </td>
+      <td>1.0000000</td>
+      <td>1.0000000</td>
+      <td>1.0000000</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Correlation ($\rho$)</td>
+      <td>30\%</td>
+      <td>50\%</td>
+      <td>70\%</td>
+      <td> </td>
+      <td>30\%</td>
+      <td>50\%</td>
+      <td>70\%</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Subordination</td>
+      <td>50/50</td>
+      <td>50/50</td>
+      <td>50/50</td>
+      <td> </td>
+      <td>iTRAXX</td>
+      <td>iTRAXX</td>
+      <td>iTRAXX</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>\multicolumn{1}{l}{Junior}</td>
+      <td>0.820388</td>
+      <td>0.8276687</td>
+      <td>0.832575</td>
+      <td>0\%-3\%</td>
+      <td>0.0905288</td>
+      <td>0.1473061</td>
+      <td>0.0011647</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>\multicolumn{1}{l}{Senior}</td>
+      <td>1.0000000</td>
+      <td>1.0000000</td>
+      <td>1.0000000</td>
+      <td>3\%-6\%</td>
+      <td>0.2782576</td>
+      <td>0.3060663</td>
+      <td>0.1780716</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>6\%-9\%</td>
+      <td>0.3984941</td>
+      <td>0.4053905</td>
+      <td>0.3478753</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>9\%-12\%</td>
+      <td>0.5106444</td>
+      <td>0.4995052</td>
+      <td>0.5067522</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>12\%-22\%</td>
+      <td>0.7680178</td>
+      <td>0.73692</td>
+      <td>0.8246559</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>22\%-100\%</td>
+      <td>1.0000000</td>
+      <td>1.0000000</td>
+      <td>1.0000000</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
 <p>The table shows the values of \((E[L]-E[(L-K)^{+}])/E[L]\), for \(K= 10\%, 20\%,..,100\%\). Simulations based on probability of default given by PD in Table \ref{tab:sims}. This table reports expectations of loss from 0 to the upper attachment bound and normalized to the expected loss.}</p>
 
 
