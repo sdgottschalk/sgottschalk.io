@@ -52,9 +52,9 @@ Table 1 summarises the simulation inputs, which were taken from Brunnermeier et 
    | Greece | 0.95  | 0.95  | 348350 | 0.3   | 0.5   | 0.7   | 0.0201 | 
    | average | 0.421053 | 0.663421 |                              |
  
-[Table 1. Simulation inputs - Source: Author's own based on Brunnermeier(2017) ]
+[Table 1. Simulation inputs - Source: Author's own based on Brunnermeier et al. (2017) ]
 
-In Table , PD is the probability of default; LGD the loss given default; $$\rho_i$$ is different values for the correlation of $$D_n$$ with common factor; and $$w_n$$ weight of country's sovereign bonds in underlying portfolio. 
+In Table 1, PD is the probability of default; LGD the loss given default; $$\rho_i$$ is different values for the correlation of $$D_n$$ with common factor; and $$w_n$$ weight of country's sovereign bonds in underlying portfolio. 
 
 Table 2 shows the values of $$(E[L]-E[(L-K)^{+}])/E[L]$$, for $$K= 10%, 20%,..,100%$$. Simulations based on probability of default given by PD in Table 1. This table reports expectations of loss from 0 to the upper attachment bound and normalized to the expected loss.	
 
@@ -82,14 +82,14 @@ Table 2 shows the expected tranche losses of the EJBies and ESBies, when 1 milli
 
 
 ## References
-Brunnermeier, M., Langfield, S., Pagano, M., Reis, R., Van Nieuwerburgh, S. and Vayanos, D. (2017), ‘ESBies: Safety in the tranches’, Economic Policy 32(90), 175– 219.URL: https://doi.org/10.1093/epolic/eix004
+Brunnermeier, M., Langfield, S., Pagano, M., Reis, R., Van Nieuwerburgh, S. and Vayanos, D. (2017), ‘ESBies: Safety in the tranches’, Economic Policy 32(90), 175– 219. <a href="https://doi.org/10.1093/epolic/eix004">https://doi.org/10.1093/epolic/eix004<\a>
 
-ESRB (2018a), Sovereign bond-backed securities: a feasibility study, Technical report, European Systemic Risk Board High-Level Task Force on Safe Assets. URL: https://www.esrb.europa.eu/pub/task force safe assets/shared/pdf/esrb.report290118 sbbs volume I mainfindings.en.pdf
+ESRB (2018a), Sovereign bond-backed securities: a feasibility study, Technical report, European Systemic Risk Board High-Level Task Force on Safe Assets. <a href="https://www.esrb.europa.eu/pub/task_force_safe_assets/shared/pdf/esrb.report290118_sbbs_volume_I_mainfindings.en.pdf">https://www.esrb.europa.eu/pub/task_force_safe_assets/shared/pdf/esrb.report290118_sbbs_volume_I_mainfindings.en.pdf<\a>
 
-ESRB (2018b), Sovereign bond-backed securities: technical findings, Technical report, European Systemic Risk Board High-Level Task Force on Safe Assets. URL: https://www.esrb.europa.eu/pub/task force safe assets/shared/pdf/esrb.report290118 sbbs volume II technicalanalysis.en.pdf
+ESRB (2018b), Sovereign bond-backed securities: technical findings, Technical report, European Systemic Risk Board High-Level Task Force on Safe Assets.<a href="https://www.esrb.europa.eu/pub/task_force_safe_assets/shared/pdf/esrb.report290118_ sbbs_volume_II_technicalanalysis.en.pdf">https://www.esrb.europa.eu/pub/task_force_safe_assets/shared/pdf/esrb.report290118_ sbbs_volume_II_technicalanalysis.en.pdf<\a>
 
-Gottschalk, Sylvia (2022a). A Factor Model of Securitisation of Sovereign Debt in the European Union. https://ssrn.com/abstract=4029723.
+Gottschalk, Sylvia (2022a). A Factor Model of Securitisation of Sovereign Debt in the European Union. <a href="https://ssrn.com/abstract=4029723">https://ssrn.com/abstract=4029723<\a>.
 
 Rossi, S. (2019), Sovereign debt restructuring and debt mutualisation in the Euro Area: An assessment, Supporting Analyses PE 634.396, European Parliament.
 
-Vasicek, O. (1987), `Probability of loss on loan portfolio', KMV Corporation. http://defaultrisk.com/pp model 60.htm.
+Vasicek, O. (1987), `Probability of loss on loan portfolio', KMV Corporation. <a href="http://defaultrisk.com/pp model 60.htm">http://defaultrisk.com/pp model 60.htm<\a>.
