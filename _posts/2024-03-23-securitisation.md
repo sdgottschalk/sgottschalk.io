@@ -82,14 +82,14 @@ Table 2 shows the expected tranche losses of the EJBies and ESBies, when 1 milli
 
 
 ## References
-Brunnermeier, M., Langfield, S., Pagano, M., Reis, R., Van Nieuwerburgh, S. and Vayanos, D. (2017), ‘ESBies: Safety in the tranches’, Economic Policy 32(90), 175– 219. <a href="https://doi.org/10.1093/epolic/eix004">https://doi.org/10.1093/epolic/eix004<\a>
+Brunnermeier, M., Langfield, S., Pagano, M., Reis, R., Van Nieuwerburgh, S. and Vayanos, D. (2017), ‘ESBies: Safety in the tranches’, Economic Policy 32(90), 175– 219. <a href="https://doi.org/10.1093/epolic/eix004">https://doi.org/10.1093/epolic/eix004</a>
 
-ESRB (2018a), Sovereign bond-backed securities: a feasibility study, Technical report, European Systemic Risk Board High-Level Task Force on Safe Assets. <a href="https://www.esrb.europa.eu/pub/task_force_safe_assets/shared/pdf/esrb.report290118_sbbs_volume_I_mainfindings.en.pdf">https://www.esrb.europa.eu/pub/task_force_safe_assets/shared/pdf/esrb.report290118_sbbs_volume_I_mainfindings.en.pdf<\a>
+ESRB (2018a), Sovereign bond-backed securities: a feasibility study, Technical report, European Systemic Risk Board High-Level Task Force on Safe Assets. <a href="https://www.esrb.europa.eu/pub/task_force_safe_assets/shared/pdf/esrb.report290118_sbbs_volume_I_mainfindings.en.pdf">https://www.esrb.europa.eu/pub/task_force_safe_assets/shared/pdf/esrb.report290118_sbbs_volume_I_mainfindings.en.pdf</a>
 
-ESRB (2018b), Sovereign bond-backed securities: technical findings, Technical report, European Systemic Risk Board High-Level Task Force on Safe Assets.<a href="https://www.esrb.europa.eu/pub/task_force_safe_assets/shared/pdf/esrb.report290118_ sbbs_volume_II_technicalanalysis.en.pdf">https://www.esrb.europa.eu/pub/task_force_safe_assets/shared/pdf/esrb.report290118_ sbbs_volume_II_technicalanalysis.en.pdf<\a>
+ESRB (2018b), Sovereign bond-backed securities: technical findings, Technical report, European Systemic Risk Board High-Level Task Force on Safe Assets.<a href="https://www.esrb.europa.eu/pub/task_force_safe_assets/shared/pdf/esrb.report290118_ sbbs_volume_II_technicalanalysis.en.pdf">https://www.esrb.europa.eu/pub/task_force_safe_assets/shared/pdf/esrb.report290118_ sbbs_volume_II_technicalanalysis.en.pdf</a>
 
-Gottschalk, Sylvia (2022a). A Factor Model of Securitisation of Sovereign Debt in the European Union. <a href="https://ssrn.com/abstract=4029723">https://ssrn.com/abstract=4029723<\a>.
+Gottschalk, Sylvia (2022a). A Factor Model of Securitisation of Sovereign Debt in the European Union. <a href="https://ssrn.com/abstract=4029723">https://ssrn.com/abstract=4029723</a>.
 
 Rossi, S. (2019), Sovereign debt restructuring and debt mutualisation in the Euro Area: An assessment, Supporting Analyses PE 634.396, European Parliament.
 
-Vasicek, O. (1987), `Probability of loss on loan portfolio', KMV Corporation. <a href="http://defaultrisk.com/pp model 60.htm">http://defaultrisk.com/pp model 60.htm<\a>.
+Vasicek, O. (1987), `Probability of loss on loan portfolio', KMV Corporation. <a href="http://defaultrisk.com/pp model 60.htm">http://defaultrisk.com/pp model 60.htm</a>.
