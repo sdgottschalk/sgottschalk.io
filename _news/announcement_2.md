@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-The 7th Women in Quantitative Finance Conference 2024 (https://www.cqfinstitute.org/content/conference-portfolio-management-quant-finance) 25 April 2024- St John's - Waterloo London
+The [7th Women in Quantitative Finance Conference 2024](https://www.cqfinstitute.org/content/conference-portfolio-management-quant-finance) 25 April 2024- St John's - Waterloo London
