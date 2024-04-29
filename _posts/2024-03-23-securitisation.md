@@ -35,9 +35,7 @@ Source: Author's own based on Brunnermeier(2017) Table 1. PD: probability of def
 
 Cumulative expected tranche loss (as \% of total expected loss) - Student \emph{t} copula
   
-```markdown
 |Correlation ($\rho$)          | 30\%  | 50\%  | 70\%  |       | 30\%  | 50\%  | 70\% |
-|:------------------------------------------------------------------------------------:|
  Subordination  | 10/90 |10/90 | 10/90 | |20/80 | 20/80 | 20/80 |
   Junior | 0.437593 | 0.4433023 | 0.4008345 |       | 0.7461881 | 0.7170992 | 0.8166356 |
    Senior | 1.0000000 | 1.0000000 | 1.0000000 |       | 1.0000000 | 1.0000000 | 1.0000000 |
@@ -55,7 +53,6 @@ Correlation ($\rho$)| 30\%  | 50\%  | 70\%  |       | 30\%  | 50\%  | 70\% |
           |       |       |       | 9\%-12\% | 0.5106444 | 0.4995052 | 0.5067522 |
           |       |       |       | 12\%-22\% | 0.7680178 | 0.73692 | 0.8246559 |
           |       |       |       | 22\%-100\% | 1.0000000 | 1.0000000 | 1.0000000 |
-|:---------------------------------------------------------------------------------:|
-```
+
 The table shows the values of $$(E[L]-E[(L-K)^{+}])/E[L]$$, for $$K= 10\%, 20\%,..,100\%$$. Simulations based on probability of default given by PD in Table \ref{tab:sims}. This table reports expectations of loss from 0 to the upper attachment bound and normalized to the expected loss.}	
 
