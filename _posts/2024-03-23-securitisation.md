@@ -10,7 +10,6 @@ related_posts: true
     
 	```markdown
    |country |PD | LGD | EAD | $$\rho$$ | $$\rho$$ | $$\rho$$ | $$w_n$$|
-   |:-----------------------------------------------------------------:|
    | Germany | 0.05  | 0.4   | 1327816 | 0.3   | 0.5   | 0.7   | 0.2816 |
    | The Netherlands | 0.1   | 0.4   | 388866 | 0.3   | 0.5   | 0.7   | 0.0661 |
    | Luxembourg | 0.1   | 0.4   | 13321 | 0.3   | 0.5   | 0.7   | 0.0019 |
@@ -31,8 +30,7 @@ related_posts: true
    | Cyprus | 0.75  | 0.875 | 30348 | 0.3   | 0.5   | 0.7   | 0.0019 |
    | Greece | 0.95  | 0.95  | 348350 | 0.3   | 0.5   | 0.7   | 0.0201 | 
    | average | 0.421053 | 0.663421 |                              |
-   |:----------------------------------------------------------------:|
-```
+  ```
 Source: Author's own based on Brunnermeier(2017) Table 1. PD: probability of default; LGD: loss given default;$$\rho$$: correlation of $$B_{n}$$ with common factor; $$w_n$$ weight of country's sovereign bonds in underlying portfolio. 
 
 Cumulative expected tranche loss (as \% of total expected loss) - Student \emph{t} copula
@@ -40,17 +38,17 @@ Cumulative expected tranche loss (as \% of total expected loss) - Student \emph{
 ```markdown
 |Correlation ($\rho$)          | 30\%  | 50\%  | 70\%  |       | 30\%  | 50\%  | 70\% |
 |:------------------------------------------------------------------------------------:|
- Subordination  | \multicolumn{1}{l}{10/90} | \multicolumn{1}{l}{10/90} | \multicolumn{1}{l}{10/90} |       | \multicolumn{1}{l}{20/80} | \multicolumn{1}{l}{20/80} | \multicolumn{1}{l}{20/80} |\midrule
-    \multicolumn{1}{l}{Junior} | 0.437593 | 0.4433023 | 0.4008345 |       | 0.7461881 | 0.7170992 | 0.8166356 |
-    \multicolumn{1}{l}{Senior} | 1.0000000 | 1.0000000 | 1.0000000 |       | 1.0000000 | 1.0000000 | 1.0000000 |
-          |       |       |       |       |       |       |  | \midrule
+ Subordination  | 10/90 |10/90 | 10/90 | |20/80 | 20/80 | 20/80 |
+  Junior | 0.437593 | 0.4433023 | 0.4008345 |       | 0.7461881 | 0.7170992 | 0.8166356 |
+   Senior | 1.0000000 | 1.0000000 | 1.0000000 |       | 1.0000000 | 1.0000000 | 1.0000000 |
+          |       |       |       |       |       |       |  | \
 Correlation ($\rho$) | 30\%  | 50\%  | 70\%  |       | 30\%  | 50\%  | 70\% | \midrule
- Subordination | \multicolumn{1}{l}{30/70} | \multicolumn{1}{l}{30/70} | \multicolumn{1}{l}{30/70} |       | \multicolumn{1}{l}{40/60} | \multicolumn{1}{l}{40/60} | \multicolumn{1}{l}{40/60} |\midrule
-    \multicolumn{1}{l}{Junior} | 0.808988 | 0.8029003 | 0.8290505 |       | 0.8168696 | 0.8192056 | 0.8308591 |
-    \multicolumn{1}{l}{Senior} | 1.0000000 | 1.0000000 | 1.0000000 |       | 1.0000000 | 1.0000000 | 1.0000000 |
-             |       |       |       |       |       |       |  | \midrule
+ Subordination | \multicolumn{1}{l}{30/70} | \multicolumn{1}{l}{30/70} | \multicolumn{1}{l}{30/70} |       | 40/60 | 40/60 | 40/60 |
+   Junior | 0.808988 | 0.8029003 | 0.8290505 |       | 0.8168696 | 0.8192056 | 0.8308591 |
+    Senior | 1.0000000 | 1.0000000 | 1.0000000 |       | 1.0000000 | 1.0000000 | 1.0000000 |
+             |       |       |       |       |       |       |  | 
 Correlation ($\rho$)| 30\%  | 50\%  | 70\%  |       | 30\%  | 50\%  | 70\% |
- Subordination| \multicolumn{1}{l}{50/50} | \multicolumn{1}{l}{50/50} | \multicolumn{1}{l}{50/50} |       | \multicolumn{1}{l}{iTRAXX} | \multicolumn{1}{l}{iTRAXX} | \multicolumn{1}{l}{iTRAXX} | \midrule
+ Subordination| 50/50 | 50/50 |50/50 |       | iTRAXX | iTRAXX | iTRAXX | 
     \multicolumn{1}{l}{Junior} | 0.820388 | 0.8276687 | 0.832575 | 0\%-3\% | 0.0905288 | 0.1473061 | 0.0011647 |
     \multicolumn{1}{l}{Senior} | 1.0000000 | 1.0000000 | 1.0000000 | 3\%-6\% | 0.2782576 | 0.3060663 | 0.1780716 |
           |       |       |       | 6\%-9\% | 0.3984941 | 0.4053905 | 0.3478753 |
