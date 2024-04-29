@@ -15,7 +15,7 @@ Let $$y\in \mathbb{R}$$, let $$M, i, w \in \mathbb{R}_{++}$$, and let $$N\in \ma
 P=q^{w}\left(M\,i\,\frac{1-q^{N+1}}{1-q}+M\,q^{N}\right)\label{tbasic}
 \end{equation}
 
-Proof
+<b>Proof</b>
 
 Let $$q\equiv \frac{1}{(1+y)}$$, then,
 
@@ -29,7 +29,7 @@ The sum can be expanded to
 S=q^{0}+q^{1}+q^{2}+...+q^{N}\label{tsum1a}
 \end{equation}
 
-Multiplying both sides of (\ref{tsum1a}) by $q$,
+Multiplying both sides of (\ref{tsum1a}) by $$q$$,
 
 \begin{equation}
 qS=q^{1}+q^{2}+...+q^{N}+q^{N+1}\label{tsum1b}
