@@ -32,8 +32,8 @@ related_posts: true
     Greece | 0.95  | 0.95  | 348350 | 0.3   | 0.5   | 0.7   | 0.0201 | 
     average | 0.421053 | 0.663421 |                              |
     :----------------------------------------------------------------:
-Source: Author's own based on Brunnermeier(2017) Table 1. PD: probability of default; LGD: loss given default;$\rho$: correlation of $B_{n}$ with common factor; $w_n$ weight of country's sovereign bonds in underlying portfolio. }
 ```
+Source: Author's own based on Brunnermeier(2017) Table 1. PD: probability of default; LGD: loss given default;$$\rho$$: correlation of $$B_{n}$$ with common factor; $$w_n$$ weight of country's sovereign bonds in underlying portfolio. 
 
 Cumulative expected tranche loss (as \% of total expected loss) - Student \emph{t} copula
   
@@ -59,5 +59,5 @@ Correlation ($\rho$)| 30\%  | 50\%  | 70\%  |       | 30\%  | 50\%  | 70\% |
           |       |       |       | 22\%-100\% | 1.0000000 | 1.0000000 | 1.0000000 |
 |:---------------------------------------------------------------------------------:|
 ```
- The table shows the values of $(E[L]-E[(L-K)^{+}])/E[L]$, for $K= 10\%, 20\%,..,100\%$. Simulations based on probability of default given by PD in Table \ref{tab:sims}. This table reports expectations of loss from 0 to the upper attachment bound and normalized to the expected loss.}	
+The table shows the values of $$(E[L]-E[(L-K)^{+}])/E[L]$$, for $$K= 10\%, 20\%,..,100\%$$. Simulations based on probability of default given by PD in Table \ref{tab:sims}. This table reports expectations of loss from 0 to the upper attachment bound and normalized to the expected loss.}	
 
