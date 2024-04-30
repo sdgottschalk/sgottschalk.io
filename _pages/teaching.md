@@ -21,8 +21,6 @@ such as weather, electricity, cryptocurrencies, using simulations based on exist
 ## Applied Computational Finance
 This module is a 2-semester elective course on the [BSc Banking and Finance](https://www.mdx.ac.uk/courses/undergraduate/banking-and-finance) at [Middlesex University](www.mdx.ac.uk). The first semester provides a practical understanding of automated trading in Python, whilst developing coding skills applied to option pricing, portfolio and volatility management. The second semester is dedicated to applications of multivariate GARCH modelling and portfolio selection with R. An important focus of the module is the development of coding skills aimed at retrieving real-time data from internet sources and and processing in Python and R.   
 
-<embed src="https://github.com/sdgottschalk/sgottschalk.io/tree/master/assets/pdf/Lecture_17_2024.pdf" type="application_pdf"/>
-
 #### References
 <ul>
     <li>Lewison, E. (2020), Python for Finance Cookbook, Packt Publishing.</li>
