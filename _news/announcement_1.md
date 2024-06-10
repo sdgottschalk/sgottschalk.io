@@ -6,6 +6,6 @@ inline: true
 related_posts: false
 ---
 
-Green Finance for SMEs Conference. Free registration via [Eventbrite](https://rb.gy/whfwwt).
+Green Finance for SMEs Conference. Details and free registration via [Eventbrite](https://rb.gy/whfwwt).
 
 
