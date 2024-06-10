@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NACFB Expo - 26 June 2024 09:30 - 16:30 
-date: 2024-04-23 07:59:00-0400
+date: 2024-06-09 07:59:00-0400
 inline: false
 related_posts: false
 ---
