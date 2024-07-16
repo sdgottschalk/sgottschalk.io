@@ -2,7 +2,7 @@
 layout: post
 title: The role of data in the deployment of EV Charging Infrastructure
 date: 2024-07-15 15:59:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 
