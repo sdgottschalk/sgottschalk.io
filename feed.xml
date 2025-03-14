@@ -1,5 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sdgottschalk.github.io//sgottschalk.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sdgottschalk.github.io//sgottschalk.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-03-14T11:44:40+00:00</updated><id>https://sdgottschalk.github.io//sgottschalk.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-</subtitle><entry><title type="html">Are English SMEs disadvantaged in accessing Green Finance?</title><link href="https://sdgottschalk.github.io//sgottschalk.io/blog/2024/RFF23/" rel="alternate" type="text/html" title="Are English SMEs disadvantaged in accessing Green Finance?" /><published>2024-07-04T11:12:00+00:00</published><updated>2024-07-04T11:12:00+00:00</updated><id>https://sdgottschalk.github.io//sgottschalk.io/blog/2024/RFF23</id><content type="html" xml:base="https://sdgottschalk.github.io//sgottschalk.io/blog/2024/RFF23/"><![CDATA[<p>Sylvia Gottschalk, Prof. Robyn Owen and Isco Coban</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sdgottschalk.github.io//sgottschalk.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sdgottschalk.github.io//sgottschalk.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-03-14T11:51:01+00:00</updated><id>https://sdgottschalk.github.io//sgottschalk.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+</subtitle><entry><title type="html"></title><link href="https://sdgottschalk.github.io//sgottschalk.io/blog/2025/2025-03-05-green-shipping/" rel="alternate" type="text/html" title="" /><published>2025-03-14T11:51:01+00:00</published><updated>2025-03-14T11:51:01+00:00</updated><id>https://sdgottschalk.github.io//sgottschalk.io/blog/2025/2025-03-05-green-shipping</id><content type="html" xml:base="https://sdgottschalk.github.io//sgottschalk.io/blog/2025/2025-03-05-green-shipping/"><![CDATA[<p>Edward Bace , Sukhjit Singh, Sylvia Gottschalk</p>
+
+<p>The global shipping industry, like many others, is under growing pressure to be more sustainable. 
+Regulation, renewable energy advances and customer demand have created a golden opportunity to make 
+shipping more environmentally sustainable, which, however, entails significant funding. 
+Traditional ship financing has been done largely on a secured basis, with relatively few considerations 
+around sustainability and environmental protection. This approach is ripe for innovation, given the industry’s 
+significant environmental footprint. Evidence from other industries suggests that borrowers could benefit
+in pricing and structure from sustainable borrowing mechanisms, such as green bonds (where proceeds are dedicated
+to environmental and social investment). The trend is also increasing for sustainable loans, which can help 
+to meet the growing demand for retrofit financing within existing vessels to meet CO2 emission targets.</p>
+
+<p>Our research aimed to explore the attitudes of shipping industry participants, through the use of a survey,
+to green financing, that is, issuing unsecured and covered green, social, and sustainable bonds and other related 
+financing instruments. These could effectively advance the environmental and social agenda in the industry, 
+strengthening environmental, social, and governance (ESG) structures at the same time. Preliminary results 
+suggest that there is considerable scope for improving knowledge and awareness among marine professionals
+to bridge the sustainability gap.</p>
+
+<h2 id="references">References</h2>
+<p>Bace, E., Singh, S., &amp; Gottschalk, S. (2025).&lt; a href=”https://doi.org/10.30564/jees.v7i3.7733&gt;  Green Financing for Shipping Industry: Results of a Marine Professionals’ Survey&lt;/a&gt; 
+Journal of Environmental &amp; Earth Sciences, 7(3), 306–315.</p>]]></content><author><name></name></author></entry><entry><title type="html">Are English SMEs disadvantaged in accessing Green Finance?</title><link href="https://sdgottschalk.github.io//sgottschalk.io/blog/2024/RFF23/" rel="alternate" type="text/html" title="Are English SMEs disadvantaged in accessing Green Finance?" /><published>2024-07-04T11:12:00+00:00</published><updated>2024-07-04T11:12:00+00:00</updated><id>https://sdgottschalk.github.io//sgottschalk.io/blog/2024/RFF23</id><content type="html" xml:base="https://sdgottschalk.github.io//sgottschalk.io/blog/2024/RFF23/"><![CDATA[<p>Sylvia Gottschalk, Prof. Robyn Owen and Isco Coban</p>
 
 <p>The UK Government aims to build a low-carbon, ‘green growth’ economy to meet net-zero and biodiversity goals, 
 level up the economy, and establish a leading global green sector. This report examines how to finance the green 
@@ -663,101 +684,4 @@ to crypto-assets: “offers of crypto-assets could allow for an innovative and i
 
 <h3 id="this-is-just-the-start">This is just the start</h3>
 
-<p>International financial regulation is always passive and merely reacts to disruptive events, rather than create preventive frameworks to avoid such events. Basel I came in the wake of the failure of Ambrosiano Spa. Basel II followed the 1994 Mexican Crisis, which highlighted the flaws of risk weights based on the membership of the OECD, and the 1997 Asian Crisis, which highlighted the flaws of low risk weights for short-term intra-bank loans. Basel III introduced liquidity risk weights following the 2008 Financial Crisis. Although it was kick-started in 2019, this new EU legislation comes after the fraudulent failure of FTX and the bankruptcy of Terra.</p>]]></content><author><name></name></author><category term="crypto" /><summary type="html"><![CDATA[regulation of crypto-assets]]></summary></entry><entry><title type="html">displaying beautiful tables with Bootstrap Tables</title><link href="https://sdgottschalk.github.io//sgottschalk.io/blog/2023/tables/" rel="alternate" type="text/html" title="displaying beautiful tables with Bootstrap Tables" /><published>2023-01-20T18:37:00+00:00</published><updated>2023-01-20T18:37:00+00:00</updated><id>https://sdgottschalk.github.io//sgottschalk.io/blog/2023/tables</id><content type="html" xml:base="https://sdgottschalk.github.io//sgottschalk.io/blog/2023/tables/"><![CDATA[<p>Using markdown to display tables is easy. Just use the following syntax:</p>
-
-<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>| Left aligned | Center aligned | Right aligned |
-| :----------- | :------------: | ------------: |
-| Left 1       | center 1       | right 1       |
-| Left 2       | center 2       | right 2       |
-| Left 3       | center 3       | right 3       |
-</code></pre></div></div>
-
-<p>That will generate:</p>
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: left">Left aligned</th>
-      <th style="text-align: center">Center aligned</th>
-      <th style="text-align: right">Right aligned</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: left">Left 1</td>
-      <td style="text-align: center">center 1</td>
-      <td style="text-align: right">right 1</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Left 2</td>
-      <td style="text-align: center">center 2</td>
-      <td style="text-align: right">right 2</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Left 3</td>
-      <td style="text-align: center">center 3</td>
-      <td style="text-align: right">right 3</td>
-    </tr>
-  </tbody>
-</table>
-
-<p></p>
-
-<p>It is also possible to use HTML to display tables. For example, the following HTML code will display a table with <a href="https://bootstrap-table.com/">Bootstrap Table</a>, loaded from a JSON file:</p>
-
-<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;table</span>
-  <span class="na">id=</span><span class="s">"table"</span>
-  <span class="na">data-toggle=</span><span class="s">"table"</span>
-  <span class="na">data-url=</span><span class="s">"{{ '/assets/json/table_data.json' | relative_url }}"</span><span class="nt">&gt;</span>
-  <span class="nt">&lt;thead&gt;</span>
-    <span class="nt">&lt;tr&gt;</span>
-      <span class="nt">&lt;th</span> <span class="na">data-field=</span><span class="s">"id"</span><span class="nt">&gt;</span>ID<span class="nt">&lt;/th&gt;</span>
-      <span class="nt">&lt;th</span> <span class="na">data-field=</span><span class="s">"name"</span><span class="nt">&gt;</span>Item Name<span class="nt">&lt;/th&gt;</span>
-      <span class="nt">&lt;th</span> <span class="na">data-field=</span><span class="s">"price"</span><span class="nt">&gt;</span>Item Price<span class="nt">&lt;/th&gt;</span>
-    <span class="nt">&lt;/tr&gt;</span>
-  <span class="nt">&lt;/thead&gt;</span>
-<span class="nt">&lt;/table&gt;</span>
-</code></pre></div></div>
-
-<table data-toggle="table" data-url="/sgottschalk.io/assets/json/table_data.json">
-  <thead>
-    <tr>
-      <th data-field="id">ID</th>
-      <th data-field="name">Item Name</th>
-      <th data-field="price">Item Price</th>
-    </tr>
-  </thead>
-</table>
-
-<p></p>
-
-<p>By using <a href="https://bootstrap-table.com/">Bootstrap Table</a> it is possible to create pretty complex tables, with pagination, search, and more. For example, the following HTML code will display a table, loaded from a JSON file, with pagination, search, checkboxes, and header/content alignment. For more information, check the <a href="https://examples.bootstrap-table.com/index.html">documentation</a>.</p>
-
-<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;table</span>
-  <span class="na">data-click-to-select=</span><span class="s">"true"</span>
-  <span class="na">data-height=</span><span class="s">"460"</span>
-  <span class="na">data-pagination=</span><span class="s">"true"</span>
-  <span class="na">data-search=</span><span class="s">"true"</span>
-  <span class="na">data-toggle=</span><span class="s">"table"</span>
-  <span class="na">data-url=</span><span class="s">"{{ '/assets/json/table_data.json' | relative_url }}"</span><span class="nt">&gt;</span>
-  <span class="nt">&lt;thead&gt;</span>
-    <span class="nt">&lt;tr&gt;</span>
-      <span class="nt">&lt;th</span> <span class="na">data-checkbox=</span><span class="s">"true"</span><span class="nt">&gt;&lt;/th&gt;</span>
-      <span class="nt">&lt;th</span> <span class="na">data-field=</span><span class="s">"id"</span> <span class="na">data-halign=</span><span class="s">"left"</span> <span class="na">data-align=</span><span class="s">"center"</span> <span class="na">data-sortable=</span><span class="s">"true"</span><span class="nt">&gt;</span>ID<span class="nt">&lt;/th&gt;</span>
-      <span class="nt">&lt;th</span> <span class="na">data-field=</span><span class="s">"name"</span> <span class="na">data-halign=</span><span class="s">"center"</span> <span class="na">data-align=</span><span class="s">"right"</span> <span class="na">data-sortable=</span><span class="s">"true"</span><span class="nt">&gt;</span>Item Name<span class="nt">&lt;/th&gt;</span>
-      <span class="nt">&lt;th</span> <span class="na">data-field=</span><span class="s">"price"</span> <span class="na">data-halign=</span><span class="s">"right"</span> <span class="na">data-align=</span><span class="s">"left"</span> <span class="na">data-sortable=</span><span class="s">"true"</span><span class="nt">&gt;</span>Item Price<span class="nt">&lt;/th&gt;</span>
-    <span class="nt">&lt;/tr&gt;</span>
-  <span class="nt">&lt;/thead&gt;</span>
-<span class="nt">&lt;/table&gt;</span>
-</code></pre></div></div>
-
-<table data-click-to-select="true" data-height="460" data-pagination="true" data-search="true" data-toggle="table" data-url="/sgottschalk.io/assets/json/table_data.json">
-  <thead>
-    <tr>
-      <th data-checkbox="true"></th>
-      <th data-field="id" data-halign="left" data-align="center" data-sortable="true">ID</th>
-      <th data-field="name" data-halign="center" data-align="right" data-sortable="true">Item Name</th>
-      <th data-field="price" data-halign="right" data-align="left" data-sortable="true">Item Price</th>
-    </tr>
-  </thead>
-</table>]]></content><author><name></name></author><category term="sample-posts" /><summary type="html"><![CDATA[an example of how to use Bootstrap Tables]]></summary></entry></feed>
+<p>International financial regulation is always passive and merely reacts to disruptive events, rather than create preventive frameworks to avoid such events. Basel I came in the wake of the failure of Ambrosiano Spa. Basel II followed the 1994 Mexican Crisis, which highlighted the flaws of risk weights based on the membership of the OECD, and the 1997 Asian Crisis, which highlighted the flaws of low risk weights for short-term intra-bank loans. Basel III introduced liquidity risk weights following the 2008 Financial Crisis. Although it was kick-started in 2019, this new EU legislation comes after the fraudulent failure of FTX and the bankruptcy of Terra.</p>]]></content><author><name></name></author><category term="crypto" /><summary type="html"><![CDATA[regulation of crypto-assets]]></summary></entry></feed>
