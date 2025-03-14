@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Biodiversity Net Gain and Green Finance for SMEs: A Midlands Perspective
+title: Biodiversity Net Gain and Green Finance for SMEs
 date: 2024-07-5 15:59:00-0400
 inline: false
 related_posts: false
