@@ -2,8 +2,7 @@
 layout: post
 title: Green Financing for Shipping Industry
 date: 2025-03-05 11:12:00
-description: Results of a Marine
-Professionals' Survey
+description: Results of a Marine Professionals' Survey
 tags: Shipping, Sustainability, Green Finance
 categories: post
 related_posts: false
