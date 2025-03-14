@@ -5,7 +5,7 @@ description: Applied computational and quantitative finance
 img: assets/img/quant_green.jpg
 redirect: https://sdgottschalk-acqf.netlify.app
 importance: 3
-category: fun
+category: knowledge transfer
 ---
 
 Every project has a beautiful feature showcase page.
