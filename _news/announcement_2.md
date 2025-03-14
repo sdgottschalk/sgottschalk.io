@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 9ECM in Sevilla - 15-19 July 2024
-date: 2024-07-09 16:11:00-0400
+title: Higgs lecture 2025- 30 April 2025 18:00 to 19:00
+date: 2025-03-09 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-The 9th European Congress of Mathematics will start on Monday 15 July until Friday 19 July 2024. Details on [9ECM](https://www.ecm2024sevilla.com/index.php/about-9ecm/welcome) 
+In-person annual Higgs lecture at King's College with Nobel Laureate Professor Gerard't Hooft. Details on [KCL](ttps://www.kcl.ac.uk/events/higgs-lecture-2025-nobel-laureate-professor-gerard-t-hooft) 
 
 
 
