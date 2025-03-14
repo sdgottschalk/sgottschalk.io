@@ -2,7 +2,7 @@
 layout: page
 title: SENSS
 description: ESRC doctoral funding    
-img: assets/img/8.jpg
+img: assets/img/6.jpg
 importance: 2
 category: knowledge transfer
 ---
