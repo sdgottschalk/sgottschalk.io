@@ -2,7 +2,7 @@
 layout: page
 title: SENSS
 description: ESRC doctoral funding    
-img: assets/img/3.jpg
+img: assets/img/8.jpg
 importance: 2
 category: knowledge transfer
 ---
@@ -14,3 +14,4 @@ More details can be found on the <a href="https://www.senss.ac.uk/">SENSS websit
 Information about how to apply for an  
 <a href="https://www.mdx.ac.uk/study/postgraduate/research-studentships/esrc-phd-studentships-at-middlesex-university/">SENSS-funded PhD at Middlesex university</a> can be found on our website. 
 
+The 2024-25 Middlesex recipient of the SENSS studentship is Emma Monkman and applied for the Sustainability and Climate Emergency theme. Her research project is on implementing flood performance certification, and is supervised by Sally Priest and Christophe Viavattene. 
