@@ -1,15 +1,25 @@
 ---
 layout: page
-title: Diversity
-description: Gender and ethnic diversity in the professions
+title: Net Zero transition
+description: funding sustainable and green economies    
 img: assets/img/3.jpg
 importance: 2
 category: work
 ---
 
-### Created in His Own image? Representations of Gender and Ethnicity in Accountancy Magazine
+### Access to finance by UK green SMEs
 
-This paper investigates whether the Milburn Report and the Equality Act had a significant impact on the visual representation of ethnic minorities and of women in the ICAEW’s main professional publication, Accountancy magazine. The visual representation includes adverts and content articles. The critical event analysis is restricted to human representations only.The Milburn report was published in July 2009, implying that the period before the event is 2008-Jul-2009, and the period after is August 2009 to September 2011. The critical event in this case is the publication of the report ion 21rst July 2009. In the case of the Equality Act, the critical event occurs on1rst October 2010. Our findings suggest that the editors of Accountancy magazine did react to a certain extent to the publication of the Milburn report and the Equality Act. There were significant changes in the number of images of women and ethnic minorities in position of authority or as accountants. Moreover, there was a statistically significant change in the number of images showing accountants of any sex or ethnicity after the publication of the Milburn Report and the Equality Act. This finding suggests that there was a deliberate intention to reinforce the representation of the core readership in reaction to external initiatives for changes in the profession. However, the overwhelming majority of images published at any time between 2008 and 2011 represent white male accountants or white male individuals in position of authority.
+This ongoing project, conducted with Prof. Robyn Owen and Isco Coban, investigates how the demand and supply of finance to established UK SMEs that aim to transition to low-carbon production processes. The project started in 2023 with the analysis of the Longitudinal Small Business Survey (LSBS) conducted by the Department for Business and Trade (DBT), and addressed the demand-side aspects of Net Zero (NZ) finance. In particular, we investigated whether geographically disadvantaged green SMEs faced hurdles in accessing finance that green SMEs located in alrge financial centres did not experienced. Our main findings were disseminated in a <a href="https://www.enterpriseresearch.ac.uk/publications/demand-for-external-finance-by-environmentally-motivated-smes-an-exploration-of-geographical-disparities-and-potential-in-relation-to-net-zero/">research report</a> at the <a href="https://www.enterpriseresearch.ac.uk/"<Entreprise Research Centre </a> in September 2024. partially funded by the DBT. 
 
-(with Jonathan Ashong-Lamptey, George Kapaya , Orthodoxia Kyriacou  and Kate Maguire)
+In 2024 we conducted 21 qualitative interviews with supply-side stakeholders, including banks, non-bank debt providers, finance brokers, and business support organizations, focusing on London and the rural South-West.
+<a href="https://cusp.ac.uk/themes/finance/report-mdx-greenfin-smes/ "> Key findings </a>  reveal a two-tier SME financing system in England: larger, well-resourced SMEs can access traditional bank debt finance and government green grants, while smaller, less-resourced SMEs struggle due to insufficient internal funds, information, and external finance options. These smaller SMEs often turn to alternative non-bank debt finance, sometimes through brokers, who play a crucial but inconsistent and unregulated role. Additionally, limited and poorly targeted grant funding, along with landlord-tenant property restrictions, hinder the green transition for many SMEs.
+
+### Financing green and sustainable shipping 
+
+The global shipping industry, like many others, is under growing pressure to be more sustainable. Regulation, renewable energy advances and customer demand have created a golden opportunity to make shipping more environmentally sustainable, which, however, entails significant funding. Traditional ship financing has been done largely on a secured basis, with relatively few considerations around sustainability and environmental protection. Our research aimed to explore the attitudes of shipping industry participants, through the use of a survey, to green financing, that is, issuing unsecured and covered green, social, and sustainable bonds and other related financing instruments. These could effectively advance the environmental and social agenda in the industry, strengthening environmental, social, and governance (ESG) structures at the same time.  <a href=”https://doi.org/10.30564/jees.v7i3.7733>  Our results</a>, published in the Journal of Environmental & Earth Sciences, suggest that there is considerable scope for improving knowledge and awareness among marine professionals to bridge the sustainability gap. This research was financed by The University of Gibraltar, and was conducted by Edward Bace Cpt Singh and Sylvia Gottschalk
+
+### Entrepreneurial risk appetite, access to finance and SME investment 
+
+This project builds on the ongoing research on financing NZ transition, but focusing more broadly on the factors that affect the investment decisions of SMEs, and green SMEs in particular. The project will start in April 2025 with funding from the DBT. The project team includes Dr Quang Nguyen, Prof. Owen and Sylvia Gottschalk. 
+
 
