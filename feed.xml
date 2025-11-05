@@ -1,5 +1,113 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sdgottschalk.github.io//sgottschalk.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sdgottschalk.github.io//sgottschalk.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-03-14T17:32:18+00:00</updated><id>https://sdgottschalk.github.io//sgottschalk.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-</subtitle><entry><title type="html">Green Financing for Shipping Industry</title><link href="https://sdgottschalk.github.io//sgottschalk.io/blog/2025/green-shipping/" rel="alternate" type="text/html" title="Green Financing for Shipping Industry" /><published>2025-03-05T11:12:00+00:00</published><updated>2025-03-05T11:12:00+00:00</updated><id>https://sdgottschalk.github.io//sgottschalk.io/blog/2025/green-shipping</id><content type="html" xml:base="https://sdgottschalk.github.io//sgottschalk.io/blog/2025/green-shipping/"><![CDATA[<p>Edward Bace , Sukhjit Singh, Sylvia Gottschalk</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sdgottschalk.github.io//sgottschalk.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sdgottschalk.github.io//sgottschalk.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-11-05T11:33:54+00:00</updated><id>https://sdgottschalk.github.io//sgottschalk.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+</subtitle><entry><title type="html">Combined crises and firm profitability</title><link href="https://sdgottschalk.github.io//sgottschalk.io/blog/2025/combined-crises/" rel="alternate" type="text/html" title="Combined crises and firm profitability" /><published>2025-11-05T11:12:00+00:00</published><updated>2025-11-05T11:12:00+00:00</updated><id>https://sdgottschalk.github.io//sgottschalk.io/blog/2025/combined-crises</id><content type="html" xml:base="https://sdgottschalk.github.io//sgottschalk.io/blog/2025/combined-crises/"><![CDATA[<p>Crises, combined crises and their implications for firm profitability
+Alexandre Siqueira and Sylvia Gottschalk</p>
+
+<h2 id="when-crises-collide-what-it-means-for-firm-profitability">When Crises Collide: What It Means for Firm Profitability</h2>
+
+<p>Financial crises rarely occur in isolation anymore. 
+When banking, currency, debt crises and recessions overlap, 
+their impact on firms is profound. Our latest research explores
+ how these combined shocks reshape profitability—and what managers and policymakers can do about it.</p>
+
+<hr />
+
+<h3 id="the-new-reality-of-overlapping-crises">The New Reality of Overlapping Crises</h3>
+
+<p>The global economy has become increasingly interconnected, and with that interconnection comes vulnerability. 
+Financial crises rarely occur in isolation anymore. Instead, they often overlap—banking crises coincide with
+ currency collapses, debt defaults, and recessions. These combined crises are not just a theoretical concern; 
+ they have become a defining feature of the 21st-century economic landscape.</p>
+
+<p>While economists have long studied the macroeconomic effects of crises, the question 
+of how these shocks affect firms—especially their profitability—remains less explored.
+ Our recent research addresses this gap by examining how different types of crises, 
+ alone and in combination, influence firm-level performance across emerging and mature economies.</p>
+
+<hr />
+
+<h3 id="why-combined-crises-matter">Why Combined Crises Matter</h3>
+
+<p>Single crises, such as a banking or currency crisis, are disruptive enough. 
+But when crises overlap, their impact is not simply additive—it is multiplicative. 
+Previous studies have shown that combined crises deepen macroeconomic distress, 
+yet firm-level implications have been largely overlooked. This matters because firms 
+operate within these turbulent environments, and their ability to adapt determines
+ not only their survival but also broader economic recovery.</p>
+
+<hr />
+
+<h3 id="a-new-taxonomy-of-crises">A New Taxonomy of Crises</h3>
+
+<p>To understand these dynamics, we developed a taxonomy that categorizes crises into single and combined episodes, 
+considering four types of shocks: banking, currency, debt, and recession. 
+Using data from 1975 to 2019 across emerging and mature economies, 
+we identified patterns that reveal stark differences between these two groups. 
+Emerging economies experience combined crises far more frequently, while mature economies tend to face isolated shocks.</p>
+
+<hr />
+
+<h3 id="what-drives-profitability-during-turbulence">What Drives Profitability During Turbulence?</h3>
+
+<p>Our analysis shows that firm characteristics do not behave uniformly across different crisis scenarios:</p>
+
+<ul>
+  <li><strong>Leverage</strong> consistently erodes profitability, regardless of whether times are tranquil or turbulent.</li>
+  <li><strong>Gross margin</strong> supports profitability, particularly in non-crisis periods.</li>
+  <li><strong>Firm size</strong> has a surprising effect: larger firms tend to perform worse in stable times.</li>
+  <li>Other factors—such as liquidity, age, external finance dependence, and ownership—shift in importance depending on the type of crisis and the country context.</li>
+</ul>
+
+<p>These findings challenge the assumption that profitability drivers remain stable over time. Instead, they suggest that models explaining firm performance need to be recalibrated for different economic regimes.</p>
+
+<hr />
+
+<h3 id="managerial-recommendations">Managerial Recommendations</h3>
+
+<ol>
+  <li>
+    <p><strong>Stress-Test Financial Structures</strong><br />
+Regularly assess leverage and liquidity under multiple crisis scenarios. High leverage is a persistent risk factor—reduce debt exposure and maintain flexible financing options.</p>
+  </li>
+  <li>
+    <p><strong>Diversify Revenue Streams</strong><br />
+Gross margin plays a stabilizing role in profitability. Focus on product and market diversification to protect margins during downturns.</p>
+  </li>
+  <li>
+    <p><strong>Reassess Size and Complexity</strong><br />
+Bigger is not always better. Large firms may face higher rigidity during crises. Streamline operations and improve agility to mitigate vulnerability.</p>
+  </li>
+  <li>
+    <p><strong>Dynamic Risk Management</strong><br />
+Adopt adaptive models that account for regime changes. What works in tranquil times may fail during overlapping crises, so decision-making frameworks should be periodically recalibrated.</p>
+  </li>
+</ol>
+
+<hr />
+
+<h3 id="policy-implications">Policy Implications</h3>
+
+<ul>
+  <li>
+    <p><strong>Macroprudential Regulation</strong><br />
+Regulators should recognize that combined crises amplify systemic risk. Policies that strengthen banking systems and reduce currency volatility can help prevent cascading shocks.</p>
+  </li>
+  <li>
+    <p><strong>Crisis-Responsive Support</strong><br />
+Government interventions—such as targeted credit lines or tax relief—should be tailored to firm characteristics, not applied uniformly. Smaller firms and those with high external finance dependence may need more immediate support.</p>
+  </li>
+  <li>
+    <p><strong>Data-Driven Monitoring</strong><br />
+Policymakers should invest in early-warning systems that integrate firm-level indicators with macroeconomic signals to anticipate vulnerabilities before crises overlap.</p>
+  </li>
+</ul>
+
+<hr />
+
+<p><strong>Bottom line:</strong> Crises are not created equal, and when they combine, their impact on firms is profound and complex. Understanding these interactions is essential for building resilient businesses and economies in an increasingly volatile world.</p>
+
+<h2 id="references">References</h2>
+<p>Alexandre Siquiera and Sylvia Gottschalk “Crises, combined crises and their implications for firm profitability”, Journal of Risk 
+Model Validation (forthcoming)</p>]]></content><author><name></name></author><category term="post" /><category term="Exgoneous" /><category term="shocks," /><category term="emerging" /><category term="markets," /><category term="business" /><category term="profitability" /><summary type="html"><![CDATA[How multiple macro shocks affect firm performance]]></summary></entry><entry><title type="html">Green Financing for Shipping Industry</title><link href="https://sdgottschalk.github.io//sgottschalk.io/blog/2025/green-shipping/" rel="alternate" type="text/html" title="Green Financing for Shipping Industry" /><published>2025-03-05T11:12:00+00:00</published><updated>2025-03-05T11:12:00+00:00</updated><id>https://sdgottschalk.github.io//sgottschalk.io/blog/2025/green-shipping</id><content type="html" xml:base="https://sdgottschalk.github.io//sgottschalk.io/blog/2025/green-shipping/"><![CDATA[<p>Edward Bace , Sukhjit Singh, Sylvia Gottschalk</p>
 
 <p>The global shipping industry, like many others, is under growing pressure to be more sustainable. 
 Regulation, renewable energy advances and customer demand have created a golden opportunity to make 
@@ -634,48 +742,4 @@ However, unlike pure crypto exchanges, DeFi platforms appears to provide service
 
 <p>Recent investigation by the <a href="https://www.fsb.org/wp-content/uploads/P160223.pdf">FSB</a> is unearthing many similarities between the traditional financial system and the activities of DeFi platforms. Although DeFi is still “talking to itself”, when it starts acting like a financial intermediary in the real economy its regulatory flaws may cause instability in the financial system.</p>
 
-<p>DeFi systems run exclusively on smart contracts, without any recourse from regulators, the courts, or even the DeFi platform itself. “Code is law” is the underlying principle of smart contracts that make up DeFi protocols. But there are documented cases of massive <a href="https://payspacemagazine.com/all/3-famous-smart-contract-fails/">smart contract failures</a> which have led to significant financial losses for investors.</p>]]></content><author><name></name></author><category term="DeFi," /><category term="crypto," /><category term="regulation" /><summary type="html"><![CDATA[Decentralized Finance regulation]]></summary></entry><entry><title type="html">EU regulates crypto markets (MiCA)</title><link href="https://sdgottschalk.github.io//sgottschalk.io/blog/2023/table-of-contents/" rel="alternate" type="text/html" title="EU regulates crypto markets (MiCA)" /><published>2023-03-20T15:59:00+00:00</published><updated>2023-03-20T15:59:00+00:00</updated><id>https://sdgottschalk.github.io//sgottschalk.io/blog/2023/table-of-contents</id><content type="html" xml:base="https://sdgottschalk.github.io//sgottschalk.io/blog/2023/table-of-contents/"><![CDATA[<h2 id="european-union-regulates-market-in-crypto-assets-mica">EUROPEAN UNION REGULATES MARKET IN CRYPTO-ASSETS (MiCA)</h2>
-
-<p>In April 2023 the European Parliament <a href="https://www.europarl.europa.eu/news/en/press-room/20230414IPR80133/crypto-assets-green-light-to-new-rules-for-tracing-transfers-in-the-eu">approved regulation</a> requiring exchanges and wallet providers to obtain a license and stablecoin issuers to hold appropriate reserves. However, the implementation details were not defined and were delegated to the European Supervisory Authority (ESMA), which is the European supervisory authority. ESMA will have to draft and consult on the “substantial package of implementing measures” that lie underneath the published regulation. This suggests that it is unlikely that a EU-wide regulatory framework will be operational in the next 3 years. The MiCA regulation approved in April 2023 will take effect only in mid-2024. Until ESMA provides EU-wide directives and technical regulatory standards (or “level-two legislation”), the supervision and regulation of crypto-assets will be carried out by member states.</p>
-
-<h3 id="there-are-many-exclusions">There are many exclusions</h3>
-<p>The Act <a href="https://data.consilium.europa.eu/doc/document/PE-54-2022-INIT/en/pdf">excludes many crypto-assets</a> (pp 8-9) , e.g., those that qualify as:</p>
-<ol>
-  <li>financial instruments</li>
-  <li>deposits, including structured deposits, funds, except if they qualify as electronic money tokens (‘e-money tokens’)</li>
-  <li>securitisation positions </li>
-  <li>non-life or life insurance contracts, pensions products or schemes and social security schemes</li>
-  <li>NFTs and other tokens, "crypto-assets that are unique and not fungible with other crypto-assets, including digital art and collectibles"</li>
- <li>Digital assets issued by central banks acting in their monetary authority capacity</li>
-</ol>
-
-<p>Electronic money and funds received in exchange for electronic money should not be treated as deposits, e-money tokens cannot be treated as deposits that are excluded as well.</p>
-
-<h3 id="concerns-with-climate-change-and-environmental-impacts">Concerns with climate change and environmental impacts</h3>
-
-<p>The first EU-wide regulation of crypto-assets is concerned with the environmental sustainability of the consensus mechanisms used for the validation of transactions in crypto-assets.</p>
-
-<p>The text urges crypto-businesses to create consensus mechanisms that are more environmentally-friendly. Responsible governance is also advised: “[..] any principal adverse impact that they might have on the climate and any other environment-related adverse impact are adequately identified and disclosed by issuers of crypto-assets and crypto-asset service providers” (p.6). The concern for the environmental impact is such that the European Supervisory Authority (European Securities and Markets Authority) (ESMA) will be mandated to develop draft regulatory technical standards in relation to sustainability indicators, identify adverse impacts on climate and outline key energy indicators.</p>
-
-<p>This is an interesting approach by the EU, since the measurement of environmental impacts of financial activities does not usually fall within the scope of financial regulators.</p>
-
-<h3 id="crypto-and-financial-stability">Crypto and financial stability</h3>
-
-<p>The EU recognises that crypto markets do not pose a threat to financial stability. The main reason put forward is their relatively small capitalisation relative to the global financial system. It is, however, possible that types of crypto-assets that
-aim to stabilise their price in relation to a specific asset or a basket of assets could in the
-future be widely adopted by retail holders, and such a development could raise additional
-challenges in terms of financial stability, the smooth operation of payment systems,
-monetary policy transmission or monetary sovereignty.</p>
-
-<h2 id="positive-approach-to-crypto-assets">POSITIVE APPROACH TO CRYPTO-ASSETS</h2>
-
-<p>the EU appears to see some <a href="https://data.consilium.europa.eu/doc/document/PE-54-2022-INIT/en/pdf">societal and economic value</a>.
-to crypto-assets: “offers of crypto-assets could allow for an innovative and inclusive way of financing, including for small and medium-sized enterprises (SMEs) (p.2)</p>
-
-<h3 id="sharp-contrast-with-the-ecb">Sharp contrast with the ECB</h3>
-
-<p>The <a href="https://www.ecb.europa.eu/press/blog/date/2022/html/ecb.blog221130~5301eecd19.en.html">ECB’s position on bitcoin and other crypto-assets</a> was published in November 2022 in the wake of FTX’s failure. Ulrich Bindseil and Jürgen Schaaf start with a scathing analysis of bitcoin’s economic irrelevance, except for illegal transactions.  They then justify the ECB’s reluctance to regulate bitcoin by explaining that regulation would be viewed as a signal of acceptance of cryptocurrencies in general -and of bitcoin in particular-, a position they completely disagree with. Although they acknowledge the EU’s MiCA initiative, they disapprove of it: “[..] current regulation of cryptocurrencies is partly shaped by misconceptions. The belief that space must be given to innovation at all costs stubbornly persists.” In summary, crypto-assets are useless, bitcoin is an “unprecedented polluter”, and should be left to disappear.</p>
-
-<h3 id="this-is-just-the-start">This is just the start</h3>
-
-<p>International financial regulation is always passive and merely reacts to disruptive events, rather than create preventive frameworks to avoid such events. Basel I came in the wake of the failure of Ambrosiano Spa. Basel II followed the 1994 Mexican Crisis, which highlighted the flaws of risk weights based on the membership of the OECD, and the 1997 Asian Crisis, which highlighted the flaws of low risk weights for short-term intra-bank loans. Basel III introduced liquidity risk weights following the 2008 Financial Crisis. Although it was kick-started in 2019, this new EU legislation comes after the fraudulent failure of FTX and the bankruptcy of Terra.</p>]]></content><author><name></name></author><category term="crypto" /><summary type="html"><![CDATA[regulation of crypto-assets]]></summary></entry></feed>
+<p>DeFi systems run exclusively on smart contracts, without any recourse from regulators, the courts, or even the DeFi platform itself. “Code is law” is the underlying principle of smart contracts that make up DeFi protocols. But there are documented cases of massive <a href="https://payspacemagazine.com/all/3-famous-smart-contract-fails/">smart contract failures</a> which have led to significant financial losses for investors.</p>]]></content><author><name></name></author><category term="DeFi," /><category term="crypto," /><category term="regulation" /><summary type="html"><![CDATA[Decentralized Finance regulation]]></summary></entry></feed>
