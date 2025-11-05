@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Accelerator Pitching Event 2024 
-date: 2024-06-20 07:59:00-0400
+title: Institute of Physics - Prof. Jim Al-Khalili 
+date: 2025-11-04 07:59:00-0400
 inline: false
 related_posts: false
 ---
 
-GreenFin and NERC IFB programme Nature Positive Accelerator Pitching Event, held at Middlesex University Boardroom. Details can be found on the [GreenFin LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7209962659771760641/)
+New Quantum World: “Spooky” Physics to Tech Revolution. Details can be found on [IoP Events](https://www.iop.org/events/prof-jim-al-khalili-new-quantum-world-spooky-physics-tech-revolution)
