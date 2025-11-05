@@ -1,13 +1,13 @@
 ---
 layout: post
-title: How Combined Financial Crises Impact Firm Profitability: Insights for Managers and Policymakers
+title: How Combined Financial Crises Impact Firm Profitability
 date: 2025-11-05 11:12:00
 description: How multiple macro shocks affect firm performance
 tags: Overlapping-crises; Business-performance; Emerging-markets
 categories: post
 related_posts: false
 ---
-### The New Reality of Overlapping Crises
+### The New Reality of Overlapping Crises: Insights for Managers and Policymakers
 by Alexandre Siqueira and Sylvia Gottschalk
 
 Financial crises rarely occur in isolation anymore. 
