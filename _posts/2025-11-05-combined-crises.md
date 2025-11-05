@@ -3,18 +3,15 @@ layout: post
 title: Combined crises and firm profitability
 date: 2025-11-05 11:12:00
 description: How multiple macro shocks affect firm performance
-tags: Exgoneous shocks, emerging markets, business profitability
+tags: Overlapping-crises; Business-performance; Emerging-markets
 categories: post
 related_posts: false
 ---
-Crises, combined crises and their implications for firm profitability
-Alexandre Siqueira and Sylvia Gottschalk
-
-
-## When Crises Collide: What It Means for Firm Profitability
+## How Combined Financial Crises Impact Firm Profitability: Insights for Managers and Policymakers
+by Alexandre Siqueira and Sylvia Gottschalk
 
 Financial crises rarely occur in isolation anymore. 
-When banking, currency, debt crises and recessions overlap, 
+When banking, currency, debt crises -and recessions- overlap, 
 their impact on firms is profound. Our latest research explores
  how these combined shocks reshape profitability—and what managers and policymakers can do about it.
 
