@@ -2,7 +2,7 @@
 layout: post
 title: How Combined Financial Crises Impact Firm Profitability
 date: 2025-11-05 11:12:00
-description: How multiple macro shocks affect firm performance
+description: The new reality of overlapping macroeconomic shocks
 tags: Overlapping-crises; Business-performance; Emerging-markets
 categories: post
 related_posts: false
