@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Higgs lecture 2025- 30 April 2025 
-date: 2025-03-09 16:11:00-0400
+title: European Academy of Management Conference 2026
+date: 2025-11-03 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-The quantum black hole with (almost) no equations by Nobel Laureate Professor Gerard't Hooft. King's College London. Details at [King's College London]([https://www.kcl.ac.uk/events/higgs-lecture-2025-nobel-laureate-professor-gerard-t-hooft](https://www.kcl.ac.uk/events/higgs-lecture-2025-nobel-laureate-professor-gerard-t-hooft))
+European Academy of Management Conference (EURAM) 2026 will take place at the School of Business and Law of the University of Agder, Kristiansand (Norway). Middlsex University's GreenFin Research hub is co-organising a green finance symposium with the Norwegian University of Science and Technology (NTNU). Details at [EURAM Conference 2026 16 to 19 June 2026](https://conferences.euram.academy/2026conference/) 
 
 
 
