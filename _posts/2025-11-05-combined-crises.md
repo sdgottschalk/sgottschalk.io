@@ -96,5 +96,5 @@ These findings challenge the assumption that profitability drivers remain stable
 
 
 ## References
-Alexandre Siquiera and Sylvia Gottschalk "Crises, combined crises and their implications for firm profitability", Journal of Risk 
+Alexandre Siqueira and Sylvia Gottschalk "Crises, combined crises and their implications for firm profitability", Journal of Risk 
 Model Validation (forthcoming) 
