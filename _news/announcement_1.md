@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Biodiversity Net Gain and Green Finance for SMEs
-date: 2024-07-5 15:59:00-0400
+title: Annual Quant Insights Conference
+date: 2025-11-4 15:59:00-0400
 inline: false
 related_posts: false
 ---
 
-Workshop on sustainable entrepreneurial finance. 15 July 2024 Birmingham City University. 
+Annual Quant Insights Conference 2025 -  4-5 November 2025
 
-Professor Javed Ghulam Hussain<br/>
-Professor of Entrepreneurial Finance<br/>
-Birmingham City University<br/>
+Happening now!<br/>
+Register on https://cqfinstitute.org/events/conferences/annual-quant-insights-conference/<br/>
+
