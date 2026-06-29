@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Institute of Physics - Prof. Jim Al-Khalili 
-date: 2025-11-04 07:59:00-0400
+title: Riemann's 200th Anniversary 
+date: 2026-05-30 07:59:00-0400
 inline: false
 related_posts: false
 ---
 
-New Quantum World: “Spooky” Physics to Tech Revolution. Details can be found on [IoP Events](https://www.iop.org/events/prof-jim-al-khalili-new-quantum-world-spooky-physics-tech-revolution)
+[LMS/IMA Joint Meeting 2026](https://www.lms.ac.uk/events/lms-ima-joint-meeting-2026). Date: 01/09/2026 at 10:30 De Morgan House, London (UK) and online via Zoom.
