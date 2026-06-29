@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-[LMS/IMA Joint Meeting 2026](https://www.lms.ac.uk/events/lms-ima-joint-meeting-2026). Date: 01/09/2026 at 10:30 De Morgan House, London (UK) and online via Zoom.
+[LMS/IMA Joint Meeting 2026](https://www.lms.ac.uk/events/lms-ima-joint-meeting-2026). Date: 01/09/2026 at 10:30 am. Location: De Morgan House, London (UK) and online via Zoom.
